@@ -19,7 +19,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-20.10
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -53,7 +53,7 @@ jobs:
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: ./*.txt
+          file: ./WebTV List.txt
           asset_name: WebTV List.txt
           tag: WebTV List.txt
           overwrite: true
