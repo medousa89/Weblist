@@ -52,7 +52,7 @@ jobs:
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: ./*.txt
+          file: ./WebTV List.txt
           asset_name: WebTV List.txt 
           tag: tv
           overwrite: true
