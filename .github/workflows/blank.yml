@@ -4,6 +4,8 @@ name: CI
 
 # Controls when the action will run. 
 on:
+  # * is a special character in YAML so you have to quote this string
+    - cron:  '0 5 * * 0,3'
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
@@ -24,17 +26,17 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      - name: install packages
-        run: |
-          sudo apt-get update -y
-          sudo apt-get install -y sed
+     # - name: install packages
+      #  run: |
+       #   sudo apt-get update -y
+        #  sudo apt-get install -y sed
    
       # Runs a set of commands using the runners shell
       - name: Run script
         run: |
           
           sh test.sh
-          ls
+        
 
       - name: commit 
         run: |
@@ -47,3 +49,11 @@ jobs:
           git log --name-only
           git status
       
+      - name: Upload
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: ./*.txt
+          asset_name: WebTV List.txt
+          tag: WebTV List.txt
+          overwrite: true
