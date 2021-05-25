@@ -34,12 +34,13 @@ jobs:
         run: |
           
           sh test.sh
+          ls
 
       - name: commit 
         run: |
           git config --local user.name ${{ github.actor }}
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
-          git add all
+          git add Greekstreamtv.m3u
           git commit -m "new data from job ${{ github.run_number }}"
           git pull origin "${{ github.ref }}" --autostash --rebase -Xours
           git push origin "${{ github.ref }}"
