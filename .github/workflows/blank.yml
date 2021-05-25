@@ -26,10 +26,10 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-     # - name: install packages
-      #  run: |
-       #   sudo apt-get update -y
-        #  sudo apt-get install -y sed
+      - name: install packages
+        run: |
+         sudo apt-get update -y
+         sudo apt-get install -y sed
    
       # Runs a set of commands using the runners shell
       - name: Run script
