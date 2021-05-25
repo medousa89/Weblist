@@ -31,3 +31,15 @@ jobs:
         run: |
           wget "https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/Greekstreamtv.m3u"
           sed -e "/#EXTM3U/d" -e "s/.*,/Channel name:/" -e "s/^http/URL1:http/" -e "s/https/http/g"  *.m3u > "WebTV List.txt"
+
+      - name: commit 
+        run: |
+          git config --local user.name ${{ github.actor }}
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git add WebTV List.txt
+          git commit -m "new data from job ${{ github.run_number }}"
+          git pull origin "${{ github.ref }}" --autostash --rebase -Xours
+          git push origin "${{ github.ref }}"
+          git log --name-only
+          git status
+      
