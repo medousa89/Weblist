@@ -44,7 +44,7 @@ jobs:
           git add *.txt
           git commit -m "new data from job ${{ github.run_number }}"
           git pull origin "${{ github.ref }}" --autostash --rebase -Xours
-          git push origin "${{ github.ref }}"
+          git push origin "${{ github.ref }}" --force
           git log --name-only
           git status
           
@@ -53,7 +53,7 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: ./WebTV List.txt
-          asset_name: 'WebTV''List.txt'
+          asset_name: 'WebTV List.txt'
           tag: tv
           overwrite: true
           
