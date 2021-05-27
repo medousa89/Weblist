@@ -6,7 +6,7 @@ name: CI
 on:
   schedule:
   # * is a special character in YAML so you have to quote this string
-   - cron:  '11 5 * * 1,6'
+   - cron:  '11 5 * * 1'
   push:
      branches: [ main ]
 
@@ -44,7 +44,7 @@ jobs:
           git add *.txt
           git commit -m "new data from job ${{ github.run_number }}"
           git pull origin "${{ github.ref }}" --autostash --rebase -Xours
-          git push origin "${{ github.ref }}" --force
+          git push --set-upstream origin "${{ github.ref }}" --force
           git log --name-only
           git status
           
