@@ -48,11 +48,11 @@ jobs:
           git log --name-only
           git status
           
-      - name: Upload
-        uses: svenstaro/upload-release-action@v2
-        with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: ./WebTV List.txt
-          asset_name: WebTV List.txt
-          tag: tv
-          overwrite: true
+     # - name: Upload
+      #  uses: svenstaro/upload-release-action@v2
+       # with:
+        #  repo_token: ${{ secrets.GITHUB_TOKEN }}
+         # file: ./WebTV List.txt
+          #asset_name: WebTV List.txt
+          #tag: tv
+          #overwrite: true
