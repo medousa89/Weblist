@@ -278,7 +278,7 @@ Channel name:ANALOG TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/analogbroadcast
 Channel name:FIGARO
 URL1:http://www.dailymotion.com/video/x7x0v7j#tab_embed.m3u8
-Channel name:Sat May 29 11:54:38 UTC 2021
+Channel name:Sat May 29 11:58:14 UTC 2021
 URL1:http//www.A
 1
 URL1:http//www.A.org
