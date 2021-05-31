@@ -208,6 +208,10 @@ Channel name:GREEK TV LONDON
 URL1:http://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 Channel name:MAROUSSIOTIKA TV
 URL1:http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
+Channel name:ERT SPORTS 2
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+Channel name:ERT SPORTS 3
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
 Channel name:ERT NEWS
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 Channel name:GREECE TV
@@ -278,5 +282,5 @@ Channel name:ANALOG TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/analogbroadcast
 Channel name:FIGARO
 URL1:http://www.dailymotion.com/video/x7x0v7j#tab_embed.m3u8
-Channel name:Sat May 29 12:31:42 UTC 2021
+Channel name:Mon May 31 06:55:18 UTC 2021
 URL1:http//www.dummytest.org.gr
