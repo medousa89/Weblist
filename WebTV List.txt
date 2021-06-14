@@ -9,7 +9,7 @@ URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.
 Channel name:MEGA HD
 URL1:http://streamcdnm17-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 Channel name:ANT1 HD
-URL1:http://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+URL1:http://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
 Channel name:ALPHA HD
 URL1:http://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 Channel name:STAR HD 
@@ -300,5 +300,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Jun 12 05:26:38 UTC 2021
+Channel name:Mon Jun 14 05:28:05 UTC 2021
 URL1:http//www.dummytest.org.gr
