@@ -18,6 +18,8 @@ Channel name:SKAI HD
 URL1:http://skai-live.siliconweb.com/media/cambria4/index.m3u8
 Channel name:OPEN TV HD
 URL1:http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+Channel name:M.TV
+URL1:http://antennaamdnoenc.akamaized.net/maktv_akamai/abr/playlist.m3u8
 Channel name:SUPER CHANNEL HD
 URL1:http://bit.ly/35EmGO5
 Channel name:NETMAX TV
@@ -300,5 +302,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Jun 16 05:27:58 UTC 2021
+Channel name:Sat Jun 19 05:26:53 UTC 2021
 URL1:http//www.dummytest.org.gr
