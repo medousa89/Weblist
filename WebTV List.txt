@@ -127,7 +127,7 @@ URL1:http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 Channel name:EPIRUS TV1
 URL1:http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 Channel name:TOP CHANNEL
-URL1:http://s1.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
+URL1:http://s2.netmax-host.eu:8085/topchannel/topchannel/playlist.m3u8
 Channel name:ALFA DRAMAS
 URL1:http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 Channel name:ART TV
@@ -302,5 +302,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Jun 26 05:19:57 UTC 2021
+Channel name:Mon Jun 28 05:20:36 UTC 2021
 URL1:http//www.dummytest.org.gr
