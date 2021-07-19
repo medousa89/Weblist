@@ -151,7 +151,7 @@ URL1:http://til.pp.ua:3424/live/superblive.m3u8
 Channel name:DIKTYO 1
 URL1:http://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
 Channel name:LEPANTO 
-URL1:http://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
+URL1:http://video1.getstreamhosting.com:1936/8234/8234/playlist.m3u8
 Channel name:LYCHNOS
 URL1:http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 Channel name:XPLORE
@@ -294,5 +294,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Jul 17 05:19:50 UTC 2021
+Channel name:Mon Jul 19 05:20:38 UTC 2021
 URL1:http//www.dummytest.org.gr
