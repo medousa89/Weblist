@@ -154,6 +154,8 @@ Channel name:ORT TV
 URL1:http://odb.streamhost.gr:3395/live/orttvlive.m3u8
 Channel name:AEOLOS TV
 URL1:http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+Channel name:ETV
+URL1:http://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 Channel name:LYCHNOS
 URL1:http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 Channel name:XPLORE
@@ -300,5 +302,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Oct 23 05:20:35 UTC 2021
+Channel name:Mon Oct 25 05:21:29 UTC 2021
 URL1:http//www.dummytest.org.gr
