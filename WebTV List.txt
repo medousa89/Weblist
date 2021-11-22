@@ -282,6 +282,8 @@ Channel name:ASTRA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/astratv2019
 Channel name:CENTER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/centertv
+Channel name:THESSALIA TV
+URL1:http://127.0.0.1:88/http://www.twitch.tv/thessaliatv
 Channel name:IONIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvioniathessalonikis
 Channel name:FIGARO
@@ -302,5 +304,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Nov 20 05:21:03 UTC 2021
+Channel name:Mon Nov 22 05:22:06 UTC 2021
 URL1:http//www.dummytest.org.gr
