@@ -15,31 +15,21 @@ URL1:http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/bpfkbp2c/
 Channel name:STAR HD 
 URL1:http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 Channel name:SKAI HD 
-URL1:http://skai-live.siliconweb.com/media/cambria4/index.m3u8
+URL1:http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
 Channel name:OPEN TV HD
 URL1:http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-Channel name:M.TV
+Channel name:M.TV HD
 URL1:http://antennaamdnoenc.akamaized.net/maktv_akamai/abr/playlist.m3u8
-Channel name:SUPER CHANNEL HD
-URL1:http://vdo.alphaserver.gr:3587/hybrid/play.m3u8
 Channel name:NETMAX TV
 URL1:http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 Channel name:GROOVY
 URL1:http://bit.ly/2p6JqSo
-Channel name:GREEK CINEMA
-URL1:http://vdo.alphaserver.gr:3613/hybrid/play.m3u8
-Channel name:BANANA TV
-URL1:http://web.onair-radio.eu/bananachannel/bananachannel/playlist.m3u8
 Channel name:GALAXY GR
 URL1:http://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 Channel name:NETV TORONTO HD
 URL1:http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 Channel name:DIAVATA TV HD
 URL1:http://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
-Channel name:ERTA LEX TV
-URL1:http://vdo.alphaserver.gr:3824/hybrid/play.m3u8
-Channel name:LIVE TV
-URL1:http://vod.streams.ovh:3829/stream/play.m3u8
 Channel name:34100 TV
 URL1:http://s1.cystream.net/live/34100/playlist.m3u8
 Channel name:SMILE TV CY
@@ -59,7 +49,9 @@ URL1:http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 Channel name:SIGMA CY
 URL1:http://sl2.sigmatv.com/hls/live.m3u8
 Channel name:DIGITAL TV CY
-URL1:http://l8.cloudskep.com/digital/dtv/playlist.m3u8
+URL1:http://am4.cloudskep.com/digital/dtv/l8/ktv2/chunks.m3u8?nimblesessionid=49519778&organizationId=128130034&suiteItemId=128132818
+Channel name:CITY CHANNEL
+URL1:http://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
 Channel name:ALFA SPORT CY
 URL1:http://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 Channel name:VOULI TV CY
@@ -78,6 +70,10 @@ Channel name:HIGH TV
 URL1:http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 Channel name:ALERT
 URL1:http://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+Channel name:EPSILON TV 
+URL1:http://edge1.mystream.gr/video427009/live/playlist.m3u8
+Channel name:EXTRA CHANNEL
+URL1:http://extratv.streamings.gr/live/tv/index.m3u8
 Channel name:BLUE SKY 
 URL1:http://www.dailymotion.com/embed/video/x7z731p#tab_embed.m3u8
 Channel name:CHANNEL 9 
@@ -193,7 +189,7 @@ URL1:http://wpso.com:1936/hls/music1.m3u8
 Channel name:MY RADIO TV
 URL1:http://vdo.alphaserver.gr:3305/hybrid/play.m3u8
 Channel name:RED MUSIC
-URL1:http://live.streams.ovh:443/redmusic/redmusic/playlist.m3u8
+URL1:http://s2.netmax-host.eu:2053/redlive/redlive/playlist.m3u8
 Channel name:PLAY TV
 URL1:http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 Channel name:XALASTRA TV
@@ -220,8 +216,6 @@ Channel name:ERT SPORTS 5
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5_3Mbps.m3u8
 Channel name:ERT NEWS
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
-Channel name:GREECE TV
-URL1:http://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
 Channel name:AKRITAS TV HD
 URL1:http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
 Channel name:MARON TV
@@ -237,7 +231,7 @@ URL1:http://wpso.com:1936/hls/wzra.m3u8
 Channel name:GRD CHANNEL
 URL1:http://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 Channel name:PEMPTOUSIA TV
-URL1:http://www.youtube.com/watch?v=J5huAgZLpec
+URL1:http://www.youtube.com/watch?v=AgWETzT6S20
 Channel name:EKKLHSIA TV HD
 URL1:http://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 Channel name:TV DIPSO 
@@ -276,8 +270,6 @@ Channel name:STAR B.E.
 URL1:http://127.0.0.1:88/http://www.twitch.tv/startvfm
 Channel name:FLASH TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/flashtvgr
-Channel name:E TV
-URL1:http://127.0.0.1:88/http://www.twitch.tv/etvhellas
 Channel name:ASTRA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/astratv2019
 Channel name:CENTER TV
@@ -286,10 +278,37 @@ Channel name:THESSALIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/thessaliatv
 Channel name:IONIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvioniathessalonikis
-Channel name:FIGARO
-URL1:http://www.dailymotion.com/video/x7x0v7j#tab_embed.m3u8
 Channel name:ALEXANDER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/alexanderwebtv
+Channel name:ERT1 
+URL1:http://31.177.62.174:8000/play/s129
+Channel name:ERT2 
+URL1:http://31.177.62.174:8000/play/s132
+Channel name:ERT3 
+URL1:http://31.177.62.174:8000/play/s126
+Channel name:MEGA 
+URL1:http://31.177.62.174:8003/play/s119
+Channel name:ANT1 
+URL1:http://31.177.62.174:8003/play/s120
+Channel name:ALPHA 
+URL1:http://31.177.62.174:8003/play/s116
+Channel name:STAR  
+URL1:http://31.177.62.174:8003/play/s117
+Channel name:SKAI 
+URL1:http://31.177.62.174:8003/play/s118
+Channel name:OPEN TV 
+URL1:http://31.177.62.174:8003/play/s122
+Channel name:M.TV
+URL1:http://31.177.62.174:8003/play/s121
+
+
+
+
+
+
+
+
+
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -304,5 +323,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Dec  4 05:22:44 UTC 2021
+Channel name:Mon Dec  6 05:23:17 UTC 2021
 URL1:http//www.dummytest.org.gr
