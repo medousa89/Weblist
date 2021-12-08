@@ -147,7 +147,7 @@ URL1:http://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
 Channel name:LEPANTO 
 URL1:http://127.0.0.1:88/http://www.twitch.tv/lepantotv
 Channel name:ORT TV
-URL1:http://odb.streamhost.gr:3395/live/orttvlive.m3u8
+URL1:http://s2.netmax-host.eu:2053/ort/ort/playlist.m3u8
 Channel name:AEOLOS TV
 URL1:http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 Channel name:ETV
@@ -323,5 +323,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Mon Dec  6 05:23:17 UTC 2021
+Channel name:Wed Dec  8 05:23:22 UTC 2021
 URL1:http//www.dummytest.org.gr
