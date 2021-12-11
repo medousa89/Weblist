@@ -280,12 +280,6 @@ Channel name:IONIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvioniathessalonikis
 Channel name:ALEXANDER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/alexanderwebtv
-Channel name:ERT1 
-URL1:http://31.177.62.174:8000/play/s129
-Channel name:ERT2 
-URL1:http://31.177.62.174:8000/play/s132
-Channel name:ERT3 
-URL1:http://31.177.62.174:8000/play/s126
 Channel name:MEGA 
 URL1:http://31.177.62.174:8003/play/s119
 Channel name:ANT1 
@@ -300,15 +294,6 @@ Channel name:OPEN TV
 URL1:http://31.177.62.174:8003/play/s122
 Channel name:M.TV
 URL1:http://31.177.62.174:8003/play/s121
-
-
-
-
-
-
-
-
-
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -323,5 +308,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Dec  8 05:23:22 UTC 2021
+Channel name:Sat Dec 11 05:21:50 UTC 2021
 URL1:http//www.dummytest.org.gr
