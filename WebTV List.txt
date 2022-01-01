@@ -30,6 +30,8 @@ Channel name:NETV TORONTO HD
 URL1:http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 Channel name:DIAVATA TV HD
 URL1:http://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+Channel name:MAROUSSIOTIKA TV
+URL1:http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
 Channel name:34100 TV
 URL1:http://s1.cystream.net/live/34100/playlist.m3u8
 Channel name:SMILE TV CY
@@ -58,6 +60,10 @@ Channel name:ALFA SPORT CY
 URL1:http://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 Channel name:VOULI TV CY
 URL1:http://dev.aftermind.xyz/upstream/unitrust-webplayer/ZKYZntAds9QTjud/20957.m3u8
+Channel name:FAROS TV CY
+URL1:http://s1.cystream.net/live/faros1/playlist.m3u8
+Channel name:FAROS TV2 CY
+URL1:http://s1.cystream.net/live/faros2/playlist.m3u8
 Channel name:CBC TV MALL CY
 URL1:http://s1.cystream.net/live/tvmall/playlist.m3u8
 Channel name:ONE TV HD
@@ -206,8 +212,6 @@ Channel name:MESSATIDA TV
 URL1:http://vod.streams.ovh:3037/stream/play.m3u8
 Channel name:GREEK TV LONDON
 URL1:http://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
-Channel name:MAROUSSIOTIKA TV
-URL1:http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
 Channel name:ERT SPORTS 2
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_3Mbps.m3u8
 Channel name:ERT SPORTS 3
@@ -222,8 +226,6 @@ Channel name:AKRITAS TV HD
 URL1:http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
 Channel name:MARON TV
 URL1:http://vdo.streamhost.gr:3499/live/marontvlive.m3u8
-Channel name:ELLADA TV
-URL1:http://castvideo.eu:3384/live/elladalive.m3u8
 Channel name:NS TV
 URL1:http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
 Channel name:MONTREAL GREEK TV
@@ -232,8 +234,6 @@ Channel name:GREEK VOICE
 URL1:http://wpso.com:1936/hls/wzra.m3u8
 Channel name:GRD CHANNEL
 URL1:http://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
-Channel name:PEMPTOUSIA TV
-URL1:http://www.youtube.com/watch?v=AgWETzT6S20
 Channel name:EKKLHSIA TV HD
 URL1:http://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 Channel name:TV DIPSO 
@@ -246,10 +246,6 @@ Channel name:BCI 24 NEWS
 URL1:http://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 Channel name:NOTIOI TV
 URL1:http://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-Channel name:FAROS TV
-URL1:http://s1.cystream.net/live/faros1/playlist.m3u8
-Channel name:FAROS TV2
-URL1:http://s1.cystream.net/live/faros2/playlist.m3u8
 Channel name:HELLENIC TV
 URL1:http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 Channel name:RADIO EPISTROFI
@@ -296,6 +292,7 @@ Channel name:OPEN TV
 URL1:http://31.177.62.174:8003/play/s122
 Channel name:M.TV
 URL1:http://31.177.62.174:8003/play/s121
+
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -310,5 +307,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Dec 29 05:24:04 UTC 2021
+Channel name:Sat Jan  1 05:23:34 UTC 2022
 URL1:http//www.dummytest.org.gr
