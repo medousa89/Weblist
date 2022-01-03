@@ -177,7 +177,7 @@ URL1:http://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 Channel name:NRG TV
 URL1:http://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 Channel name:PANIK TV
-URL1:http://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
+URL1:http://panik.cast-control.eu:1936/paniktvweb/paniktvweb/playlist.m3u8
 Channel name:NG TV
 URL1:http://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 Channel name:CANNALI TV HD
@@ -307,5 +307,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Jan  1 05:23:34 UTC 2022
+Channel name:Mon Jan  3 05:24:19 UTC 2022
 URL1:http//www.dummytest.org.gr
