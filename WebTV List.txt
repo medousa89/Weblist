@@ -24,6 +24,8 @@ Channel name:NETMAX TV
 URL1:http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 Channel name:GROOVY
 URL1:http://bit.ly/2p6JqSo
+Channel name:GREEK CINEMA
+URL1:http://vdo.alphaserver.gr:3613/hybrid/play.m3u8
 Channel name:GALAXY GR
 URL1:http://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 Channel name:NETV TORONTO HD
@@ -228,6 +230,8 @@ Channel name:GREEK VOICE
 URL1:http://wpso.com:1936/hls/wzra.m3u8
 Channel name:GRD CHANNEL
 URL1:http://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+Channel name:TRAVEL CHANNEL
+URL1:http://channel.streams.ovh:1936/travelchannel/travelchannel/playlist.m3u8
 Channel name:EKKLHSIA TV HD
 URL1:http://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 Channel name:TV DIPSO 
@@ -305,5 +309,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Jan  5 05:24:30 UTC 2022
+Channel name:Sat Jan  8 05:24:00 UTC 2022
 URL1:http//www.dummytest.org.gr
