@@ -282,6 +282,8 @@ Channel name:KONITSA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/konitsaplustv
 Channel name:XTV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/xtvision
+Channel name:HB TV
+URL1:http://127.0.0.1:88/http://www.twitch.tv/hellenicbroadcast
 Channel name:MEGA 
 URL1:http://31.177.62.174:8003/play/s119
 Channel name:ANT1 
@@ -311,5 +313,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Jan 22 05:19:55 UTC 2022
+Channel name:Mon Jan 24 05:20:36 UTC 2022
 URL1:http//www.dummytest.org.gr
