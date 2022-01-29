@@ -150,22 +150,18 @@ Channel name:IRIDA TV
 URL1:http://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 Channel name:SUPER B
 URL1:http://til.pp.ua:3424/live/superblive.m3u8
-Channel name:DIKTYO 1
-URL1:http://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
 Channel name:LEPANTO 
 URL1:http://127.0.0.1:88/http://www.twitch.tv/lepantotv
 Channel name:ORT TV
 URL1:http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 Channel name:ETV
 URL1:http://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
-Channel name:ED TV
-URL1:http://webtv.topwebhosting.gr:3856/live/stelioslive.m3u8
 Channel name:LYCHNOS
 URL1:http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 Channel name:XPLORE
 URL1:http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 Channel name:MAD TV
-URL1:http://www.youtube.com/watch?v=quAuILtgxGg
+URL1:http://www.youtube.com/watch?v=lG7cXqONBHg
 Channel name:BARAZA TV HD 
 URL1:http://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 Channel name:BARAZA TV  
@@ -188,8 +184,6 @@ Channel name:RELOAD RADIO
 URL1:http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 Channel name:ZOUGLA TV
 URL1:http://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
-Channel name:FOX MUSIC
-URL1:http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 Channel name:TILEMOUSIKI
 URL1:http://wpso.com:1936/hls/music1.m3u8
 Channel name:PLAY TV
@@ -212,8 +206,6 @@ Channel name:ERT SPORTS 3
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3_3Mbps.m3u8
 Channel name:ERT SPORTS 4
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
-Channel name:ERT SPORTS 5
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5_3Mbps.m3u8
 Channel name:ERT NEWS
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 Channel name:AKRITAS TV HD
@@ -234,8 +226,6 @@ Channel name:EKKLHSIA TV HD
 URL1:http://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 Channel name:TV DIPSO 
 URL1:http://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-Channel name:ALITEIA TV
-URL1:http://vdo.alphaserver.gr:3062/hybrid/play.m3u8
 Channel name:ARGOLIDA TV
 URL1:http://livetv.streams.ovh:1936/argolidatv/argolidatv/playlist.m3u8 
 Channel name:BCI 24 NEWS
@@ -273,7 +263,7 @@ URL1:http://127.0.0.1:88/http://www.twitch.tv/astratv2019
 Channel name:CENTER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/centertv
 Channel name:THESSALIA TV
-URL1:http://127.0.0.1:88/http://www.twitch.tv/thessaliatv
+URL1:http://127.0.0.1:88/http://www.twitch.tv/livethess
 Channel name:IONIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvioniathessalonikis
 Channel name:ALEXANDER TV
@@ -313,5 +303,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Jan 26 05:20:25 UTC 2022
+Channel name:Sat Jan 29 05:19:35 UTC 2022
 URL1:http//www.dummytest.org.gr
