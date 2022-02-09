@@ -15,7 +15,7 @@ URL1:http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/play
 Channel name:STAR HD 
 URL1:http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 Channel name:SKAI HD 
-URL1:http://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
+URL1:http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
 Channel name:OPEN TV HD
 URL1:http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 Channel name:M.TV HD
@@ -39,7 +39,7 @@ URL1:http://s1.cystream.net/live/34100/playlist.m3u8
 Channel name:SMILE TV CY
 URL1:http://s1.cystream.net/live/smile/playlist.m3u8
 Channel name:BOOBA
-URL1:http://www.youtube.com/watch?v=yc6EpskO9rY
+URL1:http://www.youtube.com/watch?v=zaGohagkcqY
 Channel name:LOONEY TUNES TV
 URL1:http://www.youtube.com/watch?v=xKDaDXRSzoM
 Channel name:KIDS TV
@@ -48,6 +48,10 @@ Channel name:ERT WORLD
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 Channel name:EURONEWS 
 URL1:http://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
+Channel name:EURONEWS BUP
+URL1:http://euronews-el-p28-cdn.hexaglobe.net/3406128a5f11d559ba49ed626c4e7ca8/62023220/euronews/euronews-euronews-website-web-responsive-2/ewnsabrel_gre.smil/ewnsabrel_gre_576p.m3u8
+Channel name:EURONEWS BUP 2
+URL1:http://www.youtube.com/watch?v=-UJlcdni8cM
 Channel name:VOULI 
 URL1:http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 Channel name:RIK SAT CY
@@ -121,7 +125,7 @@ URL1:http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 Channel name:MESOGEIOS TV
 URL1:http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 Channel name:EPIRUS TV1
-URL1:http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+URL1:http://til.pp.ua:3928/multi_live/play_src.m3u8
 Channel name:TOP CHANNEL
 URL1:http://s2.netmax-host.eu:5062/topchannel/topchannel/playlist.m3u8
 Channel name:ALFA DRAMAS
@@ -210,8 +214,6 @@ Channel name:ERT SPORTS 4
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
 Channel name:ERT NEWS
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
-Channel name:AKRITAS TV HD
-URL1:http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8
 Channel name:MARON TV
 URL1:http://vdo.streamhost.gr:3499/live/marontvlive.m3u8
 Channel name:NS TV
@@ -305,5 +307,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Mon Feb  7 05:20:25 UTC 2022
+Channel name:Wed Feb  9 05:20:25 UTC 2022
 URL1:http//www.dummytest.org.gr
