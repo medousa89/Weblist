@@ -158,6 +158,8 @@ Channel name:ORT TV
 URL1:http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 Channel name:ETV
 URL1:http://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
+Channel name:ED TV
+URL1:http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
 Channel name:LYCHNOS
 URL1:http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 Channel name:XPLORE
@@ -202,6 +204,8 @@ Channel name:MESSATIDA TV
 URL1:http://vod.streams.ovh:3037/stream/play.m3u8
 Channel name:GREEK TV LONDON
 URL1:http://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+Channel name:MARON TV
+URL1:http://vdo.streamhost.gr:3499/live/marontvlive.m3u8
 Channel name:ERT SPORTS 2
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_3Mbps.m3u8
 Channel name:ERT SPORTS 3
@@ -262,6 +266,8 @@ Channel name:CENTER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/centertv
 Channel name:THESSALIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/thessaliatv
+Channel name:EURO CHANNEL
+URL1:http://127.0.0.1:88/http://www.twitch.tv/eurochannel
 Channel name:IONIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvioniathessalonikis
 Channel name:ALEXANDER TV
@@ -299,5 +305,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Feb 23 05:20:59 UTC 2022
+Channel name:Sat Feb 26 05:20:37 UTC 2022
 URL1:http//www.dummytest.org.gr
