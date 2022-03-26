@@ -1,9 +1,9 @@
 Channel name:ERT1 HD
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_2.5Mbps.m3u8
 Channel name:ERT2 HD
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_2.5Mbps.m3u8
 Channel name:ERT3 HD
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2.5Mbps.m3u8
 Channel name:ERT SPORTS 
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
 Channel name:MEGA HD
@@ -119,7 +119,7 @@ URL1:http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 Channel name:MESOGEIOS TV
 URL1:http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 Channel name:EPIRUS TV1
-URL1:http://til.pp.ua:3928/multi_live/play_src.m3u8
+URL1:http://til.pp.ua:3928/live/epiruslive.m3u8
 Channel name:TOP CHANNEL
 URL1:http://s2.netmax-host.eu:5062/topchannel/topchannel/playlist.m3u8
 Channel name:ALFA DRAMAS
@@ -262,8 +262,12 @@ Channel name:CENTER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/centertv
 Channel name:THESSALIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/thessaliatv
+Channel name:THESSALIA TV2
+URL1:http://127.0.0.1:88/http://www.twitch.tv/livethess
 Channel name:EURO CHANNEL
 URL1:http://127.0.0.1:88/http://www.twitch.tv/eurochannel
+Channel name:PATRA TV
+URL1:http://127.0.0.1:88/http://www.twitch.tv/patratv_
 Channel name:IONIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvioniathessalonikis
 Channel name:ALEXANDER TV
@@ -301,5 +305,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Mar 23 05:22:03 UTC 2022
+Channel name:Sat Mar 26 05:21:26 UTC 2022
 URL1:http//www.dummytest.org.gr
