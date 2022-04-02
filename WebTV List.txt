@@ -262,8 +262,6 @@ Channel name:THESSALIA TV2
 URL1:http://127.0.0.1:88/http://www.twitch.tv/livethess
 Channel name:EURO CHANNEL
 URL1:http://127.0.0.1:88/http://www.twitch.tv/eurochannel
-Channel name:PATRA TV
-URL1:http://127.0.0.1:88/http://www.twitch.tv/patratv_
 Channel name:IONIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvioniathessalonikis
 Channel name:ALEXANDER TV
@@ -301,5 +299,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Mar 30 05:22:37 UTC 2022
+Channel name:Sat Apr  2 05:21:59 UTC 2022
 URL1:http//www.dummytest.org.gr
