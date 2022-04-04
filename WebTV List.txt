@@ -1,11 +1,11 @@
 Channel name:ERT1 HD
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_2.5Mbps.m3u8
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
 Channel name:ERT2 HD
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_2.5Mbps.m3u8
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
 Channel name:ERT3 HD
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2.5Mbps.m3u8
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
 Channel name:ERT SPORTS 
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 Channel name:MEGA HD
 URL1:http://streamcdnm17-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 Channel name:ALPHA HD
@@ -37,7 +37,7 @@ URL1:http://www.youtube.com/watch?v=xKDaDXRSzoM
 Channel name:KIDS TV
 URL1:http://wpso.com:1936/hls/kidshd.m3u8
 Channel name:ERT WORLD 
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 Channel name:EURONEWS 
 URL1:http://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
 Channel name:EURONEWS BUP 
@@ -130,8 +130,6 @@ Channel name:SYROS TV1
 URL1:http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 Channel name:DIKTYO TV
 URL1:http://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
-Channel name:PLP
-URL1:http://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 Channel name:TILE EPILOGES
 URL1:http://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 Channel name:PELLA TV
@@ -240,10 +238,6 @@ Channel name:ELLAS TV
 URL1:http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 Channel name:HORSE RACES
 URL1:http://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
-Channel name:VOULI TV2
-URL1:http://streamer-cache.grnet.gr/parliament/hls/webtv2_640_640x360/index.m3u8
-Channel name:VOULI TV3
-URL1:http://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
 Channel name:BERGINA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/verginachannel
 Channel name:DION TV
@@ -299,5 +293,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Apr  2 05:21:59 UTC 2022
+Channel name:Mon Apr  4 05:23:06 UTC 2022
 URL1:http//www.dummytest.org.gr
