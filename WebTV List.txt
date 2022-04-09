@@ -23,7 +23,7 @@ URL1:http://bit.ly/2p6JqSo
 Channel name:GALAXY GR
 URL1:http://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 Channel name:NETV TORONTO HD
-URL1:http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+URL1:http://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 Channel name:DIAVATA TV HD
 URL1:http://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 Channel name:34100 TV
@@ -173,7 +173,7 @@ URL1:http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
 Channel name:NG TV
 URL1:http://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 Channel name:CANNALI TV HD
-URL1:http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+URL1:http://live.streams.ovh/cannali/cannali/playlist.m3u8
 Channel name:MAGIC TV
 URL1:http://itv.streams.ovh/magictv/magictv/playlist.m3u8
 Channel name:RELOAD RADIO
@@ -212,8 +212,6 @@ Channel name:GREEK VOICE
 URL1:http://wpso.com:1936/hls/wzra.m3u8
 Channel name:GRD CHANNEL
 URL1:http://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
-Channel name:TRAVEL CHANNEL
-URL1:http://channel.streams.ovh:1936/travelchannel/travelchannel/playlist.m3u8
 Channel name:EKKLHSIA TV HD
 URL1:http://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 Channel name:TV DIPSO 
@@ -293,5 +291,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Apr  6 05:23:02 UTC 2022
+Channel name:Sat Apr  9 05:22:16 UTC 2022
 URL1:http//www.dummytest.org.gr
