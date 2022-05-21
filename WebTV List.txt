@@ -174,6 +174,8 @@ Channel name:RED MUSIC
 URL1:http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
 Channel name:NG TV
 URL1:http://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+Channel name:REAL MUSIC TV
+URL1:http://livetv.streams.ovh:1936/realmusictv/realmusictv/playlist.m3u8
 Channel name:CANNALI TV HD
 URL1:http://live.streams.ovh/cannali/cannali/playlist.m3u8
 Channel name:MAGIC TV
@@ -295,5 +297,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed May 18 05:29:03 UTC 2022
+Channel name:Sat May 21 05:25:01 UTC 2022
 URL1:http//www.dummytest.org.gr
