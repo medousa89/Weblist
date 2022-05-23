@@ -250,6 +250,8 @@ Channel name:FLASH TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/flashtvgr
 Channel name:ASTRA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/astratv2019
+Channel name:CINEMA TIME TV
+URL1:http://127.0.0.1:88/http://www.twitch.tv/cinematimetv
 Channel name:CENTER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/centertv
 Channel name:THESSALIA TV
@@ -297,5 +299,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat May 21 05:25:01 UTC 2022
+Channel name:Mon May 23 05:30:09 UTC 2022
 URL1:http//www.dummytest.org.gr
