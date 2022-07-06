@@ -1,9 +1,15 @@
 Channel name:ERT1 HD
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
+Channel name:ERT1 
+URL1:http://84.242.52.54:8000/play/ert1
 Channel name:ERT2 HD
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
+Channel name:ERT2
+URL1:http://84.242.52.54:8000/play/ert2
 Channel name:ERT3 HD
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_3Mbps.m3u8
+Channel name:ERT3
+URL1:http://84.242.52.54:8000/play/ert3
 Channel name:ERT SPORTS 
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww_4Mbps.m3u8
 Channel name:MEGA HD
@@ -54,48 +60,24 @@ Channel name:FAROS TV CY
 URL1:http://s1.cystream.net/live/faros1/playlist.m3u8
 Channel name:FAROS TV2 CY
 URL1:http://s1.cystream.net/live/faros2/playlist.m3u8
-Channel name:CBC TV MALL CY
-URL1:http://s1.cystream.net/live/tvmall/playlist.m3u8
 Channel name:ONE TV HD
 URL1:http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 Channel name:ACTION 24
 URL1:http://www.dailymotion.com/embed/video/x61fbhs#tab_embed.m3u8
-Channel name:ACTION 24 BUP
-URL1:http://31.177.62.174:8001/play/s154
 Channel name:APT
 URL1:http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
-Channel name:APT BUP
-URL1:http://31.177.62.174:8002/play/s158
 Channel name:KONTRA
 URL1:http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-Channel name:KONTRA BUP
-URL1:http://31.177.62.174:8001/play/s150
 Channel name:HIGH TV
 URL1:http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-Channel name:HIGH TV BUP
-URL1:http://31.177.62.174:8001/play/s152
 Channel name:ALERT
 URL1:http://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-Channel name:ALERT BUP
-URL1:http://31.177.62.174:8002/play/s156
-Channel name:EPSILON TV 
-URL1:http://31.177.62.174:8001/play/s146
-Channel name:EXTRA CHANNEL
-URL1:http://extratv.streamings.gr/live/tv/index.m3u8
-Channel name:EXTRA CHANNEL BUP
-URL1:http://31.177.62.174:8001/play/s153
 Channel name:BLUE SKY 
 URL1:http://www.dailymotion.com/embed/video/x7z731p#tab_embed.m3u8
-Channel name:BLUE SKY BUP
-URL1:http://31.177.62.174:8002/play/s157
 Channel name:CHANNEL 9 
 URL1:http://e-e.cyou:8222/channel9/channel9/playlist.m3u8
-Channel name:CHANNEL 9 BUP
-URL1:http://31.177.62.174:8002/play/s155
 Channel name:ATTICA TV
 URL1:http://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
-Channel name:ATTICA TV BUP
-URL1:http://31.177.62.174:8002/play/s159
 Channel name:4E
 URL1:http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 Channel name:IONIAN CHANNEL
@@ -136,8 +118,6 @@ Channel name:ART TV
 URL1:http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
 Channel name:CORFU CHANNEL
 URL1:http://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-Channel name:SAMIAKI TV
-URL1:http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 Channel name:SYROS TV1
 URL1:http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 Channel name:DIKTYO TV
@@ -150,22 +130,20 @@ Channel name:EGNATIA TV
 URL1:http://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 Channel name:HLEKTRA TV
 URL1:http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
+Channel name:AEOLOS TV
+URL1:http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 Channel name:IRIDA TV
 URL1:http://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 Channel name:SUPER B
 URL1:http://til.pp.ua:3424/live/superblive.m3u8
 Channel name:LEPANTO 
 URL1:http://127.0.0.1:88/http://www.twitch.tv/lepantotv
-Channel name:ORT TV
-URL1:http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 Channel name:ETV
 URL1:http://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 Channel name:PLP
 URL1:http://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 Channel name:ED TV
 URL1:http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
-Channel name:AEOLOS TV
-URL1:http://cdn.istoikona.com/aeolostv/live/chunks.m3u8?nimblesessionid=80
 Channel name:LYCHNOS
 URL1:http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 Channel name:XPLORE
@@ -195,7 +173,7 @@ URL1:http://itv.streams.ovh/magictv/magictv/playlist.m3u8
 Channel name:RELOAD RADIO
 URL1:http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 Channel name:ZOUGLA TV
-URL1:http://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
+URL1:http://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 Channel name:TILEMOUSIKI
 URL1:http://65.108.62.57:8080/live/greekmusic.m3u8
 Channel name:PLAY TV
@@ -266,8 +244,6 @@ Channel name:CENTER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/centertv
 Channel name:THESSALIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/thessaliatv
-Channel name:THESSALIA TV2
-URL1:http://127.0.0.1:88/http://www.twitch.tv/livethess
 Channel name:EURO CHANNEL
 URL1:http://127.0.0.1:88/http://www.twitch.tv/eurochannel
 Channel name:PATRA TV
@@ -278,44 +254,23 @@ Channel name:ALEXANDER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/alexanderwebtv
 Channel name:KONITSA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/konitsaplustv
-Channel name:E-BAND
-URL1:http://127.0.0.1:88/hhttp://www.twitch.tv/ebandgr
 Channel name:XTV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/xtvision
 Channel name:MEGA 
-URL1:http://31.177.62.174:8003/play/s163
+URL1:http://84.242.52.54:8000/play/megagr
 Channel name:ANT1 
-URL1:http://31.177.62.174:8003/play/s164
+URL1:http://84.242.52.54:8000/play/ant1
 Channel name:ALPHA 
-URL1:http://31.177.62.174:8003/play/s160
+URL1:http://84.242.52.54:8000/play/alpha
 Channel name:STAR  
-URL1:http://31.177.62.174:8003/play/s161
+URL1:http://84.242.52.54:8000/play/stargr
 Channel name:SKAI 
-URL1:http://31.177.62.174:8003/play/s162
+URL1:http://84.242.52.54:8000/play/SKAI
 Channel name:OPEN TV 
-URL1:http://31.177.62.174:8003/play/s166
+URL1:http://84.242.52.54:8000/play/openbeyond
 Channel name:M.TV
-URL1:http://31.177.62.174:8003/play/s121
-Channel name:RIK 1
-URL1:http://185.230.112.4:10050/play/a013
-Channel name:RIK 2
-URL1:http://185.230.112.4:10050/play/a014
-Channel name:RIK HD
-URL1:http://185.230.112.4:10050/play/a00x
-Channel name:ALPHA CY
-URL1:http://185.230.112.4:10050/play/a00m
-Channel name:ANT1 CY
-URL1:http://185.230.112.4:10050/play/a00o
-Channel name:CAPITAL CY
-URL1:http://185.230.112.4:10050/play/a00t
-Channel name:PLUS TV CY
-URL1:http://185.230.112.4:10050/play/a00r
-Channel name:OMEGA CY
-URL1:http://185.230.112.4:10050/play/a00p
-Channel name:EXTRA CY
-URL1:http://185.230.112.4:10050/play/a00s
-Channel name:BERGINA TV CY
-URL1:http://185.230.112.4:10050/play/a018
+URL1:http://84.242.52.54:8000/play/mtvgr
+
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -330,5 +285,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Mon Jul  4 05:34:51 UTC 2022
+Channel name:Wed Jul  6 05:34:49 UTC 2022
 URL1:http//www.dummytest.org.gr
