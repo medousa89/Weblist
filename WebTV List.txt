@@ -153,7 +153,7 @@ URL1:http://www.youtube.com/c/madtvgreece/live
 Channel name:BARAZA TV HD 
 URL1:http://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 Channel name:BARAZA TV RELAXING
-URL1:http://media2.streambrothers.com:1936/8106/8106/playlist.m3u8
+URL1:http://s2.netmax-host.eu:2053/baraza/baraza/playlist.m3u8
 Channel name:BARAZA TV HD Greek Hits
 URL1:http://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 Channel name:NRG TV
@@ -285,5 +285,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Jul  6 05:34:49 UTC 2022
+Channel name:Sat Jul  9 05:22:15 UTC 2022
 URL1:http//www.dummytest.org.gr
