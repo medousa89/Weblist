@@ -1,15 +1,9 @@
 Channel name:ERT1 HD
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
-Channel name:ERT1 
-URL1:http://84.242.52.54:8000/play/ert1
 Channel name:ERT2 HD
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
-Channel name:ERT2
-URL1:http://84.242.52.54:8000/play/ert2
 Channel name:ERT3 HD
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_3Mbps.m3u8
-Channel name:ERT3
-URL1:http://84.242.52.54:8000/play/ert3
 Channel name:ERT SPORTS 
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww_4Mbps.m3u8
 Channel name:MEGA HD
@@ -144,6 +138,10 @@ Channel name:PLP
 URL1:http://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 Channel name:ED TV
 URL1:http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
+Channel name:EUROPE ONE
+URL1:http://s2.netmax-host.eu:5062/europeone/europeone/playlist.m3u8
+Channel name:FORMEDIA TV
+URL1:http://svs.itworkscdn.net/artecniko2live/logic.smil/playlist.m3u8
 Channel name:LYCHNOS
 URL1:http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 Channel name:XPLORE
@@ -153,7 +151,7 @@ URL1:http://www.youtube.com/c/madtvgreece/live
 Channel name:BARAZA TV HD 
 URL1:http://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 Channel name:BARAZA TV RELAXING
-URL1:http://s2.netmax-host.eu:2053/baraza/baraza/playlist.m3u8
+URL1:http://s2.netmax-host.eu:5062/baraza/baraza/playlist.m3u8
 Channel name:BARAZA TV HD Greek Hits
 URL1:http://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 Channel name:NRG TV
@@ -256,21 +254,8 @@ Channel name:KONITSA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/konitsaplustv
 Channel name:XTV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/xtvision
-Channel name:MEGA 
-URL1:http://84.242.52.54:8000/play/megagr
-Channel name:ANT1 
-URL1:http://84.242.52.54:8000/play/ant1
-Channel name:ALPHA 
-URL1:http://84.242.52.54:8000/play/alpha
-Channel name:STAR  
-URL1:http://84.242.52.54:8000/play/stargr
-Channel name:SKAI 
-URL1:http://84.242.52.54:8000/play/SKAI
-Channel name:OPEN TV 
-URL1:http://84.242.52.54:8000/play/openbeyond
-Channel name:M.TV
-URL1:http://84.242.52.54:8000/play/mtvgr
-
+Channel name:BERGINA TV CY
+URL1:http://127.0.0.1:88/http://www.twitch.tv/verginacy
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -285,5 +270,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Jul 13 05:27:43 UTC 2022
+Channel name:Sat Jul 16 05:23:28 UTC 2022
 URL1:http//www.dummytest.org.gr
