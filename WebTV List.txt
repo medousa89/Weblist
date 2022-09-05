@@ -1,9 +1,9 @@
 Channel name:ERT1 HD
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
+URL1:http://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8
 Channel name:ERT2 HD
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
+URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert4/ert_ev4_main/mainabr/playlist.m3u8
 Channel name:ERT3 HD
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_3Mbps.m3u8
+URL1:http://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8
 Channel name:ERT SPORTS 
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww_4Mbps.m3u8
 Channel name:MEGA HD
@@ -13,7 +13,7 @@ URL1:http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/play
 Channel name:STAR HD 
 URL1:http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 Channel name:SKAI HD 
-URL1:http://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+URL1:http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
 Channel name:OPEN TV HD
 URL1:http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 Channel name:NETMAX TV
@@ -31,7 +31,7 @@ URL1:http://s1.cystream.net/live/34100/playlist.m3u8
 Channel name:SMILE TV CY
 URL1:http://s1.cystream.net/live/smile/playlist.m3u8
 Channel name:KIDS TV
-URL1:http://wpso.com:1936/hls/kidshd.m3u8
+URL1:http://65.108.62.57:8080/live/kidshd.m3u8
 Channel name:ERT WORLD 
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 Channel name:EURONEWS 
@@ -105,7 +105,7 @@ URL1:http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 Channel name:EPIRUS TV1
 URL1:http://til.pp.ua:3928/live/epiruslive.m3u8
 Channel name:TOP CHANNEL
-URL1:http://s2.netmax-host.eu:5062/topchannel/topchannel/playlist.m3u8
+URL1:http://eu1.netmax-host.eu:1936/topchannel/topchannel/playlist.m3u8
 Channel name:ALFA DRAMAS
 URL1:http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
 Channel name:ART TV
@@ -151,7 +151,7 @@ URL1:http://www.youtube.com/c/madtvgreece/live
 Channel name:BARAZA TV HD 
 URL1:http://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 Channel name:BARAZA TV RELAXING
-URL1:http://s2.netmax-host.eu:5062/baraza/baraza/playlist.m3u8
+URL1:http://eu1.netmax-host.eu:1936/baraza/baraza/playlist.m3u8
 Channel name:BARAZA TV HD Greek Hits
 URL1:http://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 Channel name:NRG TV
@@ -190,10 +190,6 @@ Channel name:GREEK TV LONDON
 URL1:http://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 Channel name:ERT SPORTS 2
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww_4Mbps.m3u8
-Channel name:ERT SPORTS 3
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3_3Mbps.m3u8
-Channel name:ERT SPORTS 4
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
 Channel name:ERT NEWS
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 Channel name:NS TV
@@ -201,7 +197,7 @@ URL1:http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
 Channel name:MONTREAL GREEK TV
 URL1:http://live.greektv.ca/hls1/greektv.m3u8
 Channel name:GREEK VOICE 
-URL1:http://wpso.com:1936/hls/wzra.m3u8
+URL1:http://65.108.62.57:8080/live/greektv1.m3u8
 Channel name:GRD CHANNEL
 URL1:http://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 Channel name:EKKLHSIA TV HD
@@ -270,5 +266,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Sep  3 05:36:48 UTC 2022
+Channel name:Mon Sep  5 06:08:08 UTC 2022
 URL1:http//www.dummytest.org.gr
