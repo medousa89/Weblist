@@ -1,11 +1,11 @@
 Channel name:ERT1 HD
-URL1:http://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8
+URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist.m3u8
 Channel name:ERT2 HD
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert4/ert_ev4_main/mainabr/playlist.m3u8
 Channel name:ERT3 HD
 URL1:http://ert3-live.ert.insyscd.net/out/v1/c92a3de0ec514ca08c1cd0443c6aa970/ert3-live.mpd
 Channel name:ERT SPORTS 
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww_4Mbps.m3u8
+URL1:http://ertsports-live.ert.insyscd.net/out/v1/fc446b8d69ba43b0881025956ac79f75/ertsports-live.mpd
 Channel name:MEGA HD
 URL1:http://streamcdnh3-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 Channel name:ALPHA HD
@@ -33,7 +33,7 @@ URL1:http://s1.cystream.net/live/smile/playlist.m3u8
 Channel name:KIDS TV
 URL1:http://65.108.62.57:8080/live/kidshd.m3u8
 Channel name:ERT WORLD 
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert5/ert_ev5_main/mainabr/playlist.m3u8
 Channel name:EURONEWS 
 URL1:http://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
 Channel name:EURONEWS BUP 
@@ -138,6 +138,8 @@ Channel name:PLP
 URL1:http://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 Channel name:ED TV
 URL1:http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
+Channel name:GNOMI TV
+URL1:http://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 Channel name:EUROPE ONE
 URL1:http://s2.netmax-host.eu:5062/europeone/europeone/playlist.m3u8
 Channel name:FORMEDIA TV
@@ -189,7 +191,7 @@ URL1:http://vod.streams.ovh:3037/stream/play.m3u8
 Channel name:GREEK TV LONDON
 URL1:http://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 Channel name:ERT SPORTS 2
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww_4Mbps.m3u8
+URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/manifest.mpd
 Channel name:ERT NEWS
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 Channel name:NS TV
@@ -266,5 +268,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Sep  7 06:19:44 UTC 2022
+Channel name:Sat Sep 10 05:51:03 UTC 2022
 URL1:http//www.dummytest.org.gr
