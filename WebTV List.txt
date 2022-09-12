@@ -56,6 +56,8 @@ Channel name:FAROS TV2 CY
 URL1:http://s1.cystream.net/live/faros2/playlist.m3u8
 Channel name:ONE TV HD
 URL1:http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+Channel name:NAFTEMPORIKH TV
+URL1:http://www.youtube.com/watch?v=6S_kYm21G1I
 Channel name:ACTION 24
 URL1:http://www.dailymotion.com/embed/video/x61fbhs#tab_embed.m3u8
 Channel name:APT
@@ -138,6 +140,8 @@ Channel name:PLP
 URL1:http://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 Channel name:ED TV
 URL1:http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
+Channel name:ORT TV
+URL1:http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 Channel name:GNOMI TV
 URL1:http://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 Channel name:EUROPE ONE
@@ -268,5 +272,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Sep 10 05:51:03 UTC 2022
+Channel name:Mon Sep 12 06:21:56 UTC 2022
 URL1:http//www.dummytest.org.gr
