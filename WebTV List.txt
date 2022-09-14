@@ -1,9 +1,9 @@
 Channel name:ERT1 HD
-URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist.m3u8
+URL1:http://ert1-live.ert.insyscd.net/out/v1/6370627d34c04383a7b3dfb5c53e7db9/ert1-live_1.m3u8
 Channel name:ERT2 HD
-URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert4/ert_ev4_main/mainabr/playlist.m3u8
+URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert4/ert_ev4_main/mainabr/ert_ev4_main/main_1080/chunks.m3u8
 Channel name:ERT3 HD
-URL1:http://ert3-live.ert.insyscd.net/out/v1/c92a3de0ec514ca08c1cd0443c6aa970/ert3-live.mpd
+URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
 Channel name:ERT SPORTS 
 URL1:http://ertsports-live.ert.insyscd.net/out/v1/fc446b8d69ba43b0881025956ac79f75/ertsports-live.mpd
 Channel name:MEGA HD
@@ -183,7 +183,7 @@ URL1:http://65.108.62.57:8080/live/greekmusic.m3u8
 Channel name:PLAY TV
 URL1:http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 Channel name:XALASTRA TV
-URL1:http://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+URL1:http://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 Channel name:MESSINIA TV
 URL1:http://176.9.123.140:1935/messinia/messinia/master.m3u8
 Channel name:CHOICE
@@ -272,5 +272,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Mon Sep 12 06:21:56 UTC 2022
+Channel name:Wed Sep 14 06:13:39 UTC 2022
 URL1:http//www.dummytest.org.gr
