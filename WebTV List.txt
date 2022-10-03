@@ -284,5 +284,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Oct  1 06:06:32 UTC 2022
+Channel name:Mon Oct  3 05:50:35 UTC 2022
 URL1:http//www.dummytest.org.gr
