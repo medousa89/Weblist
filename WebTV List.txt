@@ -4,6 +4,8 @@ Channel name:ERT2 HD
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_1080/chunks.m3u8
 Channel name:ERT3 HD
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
+Channel name:ERT NEWS
+URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news_3Mbps.m3u8
 Channel name:ERT SPORTS 
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
 Channel name:MEGA HD
@@ -202,8 +204,6 @@ Channel name:GREEK TV LONDON
 URL1:http://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 Channel name:ERT SPORTS 2
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8
-Channel name:ERT NEWS
-URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news_3Mbps.m3u8
 Channel name:NS TV
 URL1:http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
 Channel name:MGR TV TRAVEL
@@ -286,5 +286,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Wed Oct 19 06:21:43 UTC 2022
+Channel name:Sat Oct 22 05:48:46 UTC 2022
 URL1:http//www.dummytest.org.gr
