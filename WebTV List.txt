@@ -63,7 +63,7 @@ URL1:http://s1.cystream.net/live/faros2/playlist.m3u8
 Channel name:ONE TV HD
 URL1:http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 Channel name:NAFTEMPORIKH TV
-URL1:http://www.youtube.com/c/naftemporikigr/live
+URL1:http://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_1395f0f0301a11edbe930342f38886b5/tracks-v2a1/mono.m3u8
 Channel name:APT
 URL1:http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 Channel name:KONTRA
@@ -266,18 +266,6 @@ Channel name:XTV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/xtvision
 Channel name:BERGINA TV CY
 URL1:http://127.0.0.1:88/http://www.twitch.tv/verginacy
-Channel name:ANT1
-URL1:http://91.132.132.129:6060/play/a00j
-Channel name:MEGA
-URL1:http://91.132.132.129:6060/play/a028
-Channel name:ALPHA
-URL1:http://91.132.132.129:6060/play/a00a
-Channel name:STAR
-URL1:http://91.132.132.129:6060/play/a00o
-Channel name:SKAI 
-URL1:http://91.132.132.129:6060/play/a029
-Channel name:OPEN TV
-URL1:http://91.132.132.129:6060/play/a00f
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -292,5 +280,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Mon Nov 14 05:32:43 UTC 2022
+Channel name:Wed Nov 16 05:23:43 UTC 2022
 URL1:http//www.dummytest.org.gr
