@@ -128,6 +128,8 @@ Channel name:PELLA TV
 URL1:http://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 Channel name:EGNATIA TV
 URL1:http://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+Channel name:PRO NEWS
+URL1:http://storemusic.top:8222/superb33/superb33/playlist.m3u8
 Channel name:HLEKTRA TV
 URL1:http://stream.sy3dud.com:5443/LiveApp/streams/929478179740925265301306.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 Channel name:AEOLOS TV
@@ -228,6 +230,8 @@ Channel name:MILOS TV
 URL1:http://s2.netmax-host.eu:5062/milostv/milostv/playlist.m3u8
 Channel name:AKTINA TV
 URL1:http://5e8dfce185af1.streamlock.net:443/AktinaWebTv/AktinaWebTv/playlist.m3u8
+Channel name:FASHION TV GREECE
+URL1:http://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/0/profileManifest.m3u8?_uid=76708f3d-29e5-4326-9331-b075d3c68267&rK=eu
 Channel name:HELLENIC TV
 URL1:http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 Channel name:RADIO EPISTROFI
@@ -264,6 +268,8 @@ Channel name:XTV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/xtvision
 Channel name:BERGINA TV CY
 URL1:http://127.0.0.1:88/http://www.twitch.tv/verginacy
+Channel name:ANT1 PLUS
+URL1:http://antenna-quatar.akamaized.net/hls/live/2094712/elemental/quatar22.m3u8
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -278,5 +284,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Mon Nov 21 05:23:59 UTC 2022
+Channel name:Wed Nov 23 05:22:22 UTC 2022
 URL1:http//www.dummytest.org.gr
