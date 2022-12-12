@@ -32,6 +32,10 @@ Channel name:DIAVATA TV HD
 URL1:http://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 Channel name:CINEMA TIME
 URL1:http://s1.cystream.net/live/34100/playlist.m3u8
+Channel name:BCI GREEK
+URL1:http://channel.streams.ovh:1936/greekcinema/greekcinema/playlist.m3u8
+Channel name:BCI CINEMA
+URL1:http://channel.streams.ovh:19360/cetn/cetn.m3u8
 Channel name:DTV 6
 URL1:http://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 Channel name:SMILE TV CY
@@ -172,7 +176,7 @@ Channel name:NG TV
 URL1:http://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 Channel name:REAL MUSIC TV
 URL1:http://livetv.streams.ovh:1936/realmusictv/realmusictv/playlist.m3u8
-Channel name:CANNALI TV HD
+Channel name:BCI MUSIC
 URL1:http://live.streams.ovh/cannali/cannali/playlist.m3u8
 Channel name:MAGIC TV
 URL1:http://itv.streams.ovh/magictv/magictv/playlist.m3u8
@@ -206,6 +210,8 @@ Channel name:MONTREAL GREEK TV
 URL1:http://live.greektv.ca/hls1/greektv.m3u8
 Channel name:GREEK VOICE 
 URL1:http://65.108.62.57:8080/live/greektv1.m3u8
+Channel name:BCI TRAVEL
+URL1:http://channel.streams.ovh:19360/bcicinema/bcicinema.m3u8
 Channel name:GRD CHANNEL
 URL1:http://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 Channel name:PEMPTOUSIA TV
@@ -214,7 +220,7 @@ Channel name:EKKLHSIA TV HD
 URL1:http://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 Channel name:TV DIPSO 
 URL1:http://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-Channel name:BCI 24 NEWS
+Channel name:BCI NEWS
 URL1:http://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 Channel name:NOTIOI TV
 URL1:http://srv.streamserver.gr:3451/stream/play.m3u8
@@ -282,5 +288,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Dec 10 05:20:25 UTC 2022
+Channel name:Mon Dec 12 05:21:33 UTC 2022
 URL1:http//www.dummytest.org.gr
