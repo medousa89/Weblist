@@ -79,7 +79,7 @@ URL1:http://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 Channel name:BLUE SKY 
 URL1:http://www.dailymotion.com/embed/video/x7z731p#tab_embed.m3u8
 Channel name:4E
-URL1:http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+URL1:http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 Channel name:IONIAN
 URL1:http://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 Channel name:TV 100
@@ -288,5 +288,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Mon Dec 26 05:20:34 UTC 2022
+Channel name:Wed Dec 28 05:20:10 UTC 2022
 URL1:http//www.dummytest.org.gr
