@@ -66,6 +66,8 @@ Channel name:FAROS TV2 CY
 URL1:http://s1.cystream.net/live/faros2/playlist.m3u8
 Channel name:ONE TV
 URL1:http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+Channel name:ACTION 24
+URL1:http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 Channel name:NAFTEMPORIKH TV
 URL1:http://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_1395f0f0301a11edbe930342f38886b5/tracks-v2a1/mono.m3u8
 Channel name:APT
@@ -288,5 +290,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Mon Jan  9 05:20:52 UTC 2023
+Channel name:Wed Jan 11 05:21:13 UTC 2023
 URL1:http//www.dummytest.org.gr
