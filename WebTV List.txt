@@ -8,16 +8,20 @@ Channel name:ERT NEWS
 URL1:http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news_3Mbps.m3u8
 Channel name:ERT SPORTS 
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
-Channel name:MEGA 
+Channel name:MEGA HD
 URL1:http://streamcdnh19-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-Channel name:ALPHA 
+Channel name:ANT1 HD
+URL1:http://d1nfykbwa3n98t.cloudfront.net/out/v1/b0966e1e2108447ca9d90048c9ddc951/ant1-cmaf/ant1.m3u8
+Channel name:ALPHA HD
 URL1:http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-Channel name:STAR 
+Channel name:STAR HD
 URL1:http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-Channel name:SKAI  
+Channel name:SKAI HD
 URL1:http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
-Channel name:OPEN TV 
+Channel name:OPEN TV HD
 URL1:http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+Channel name:MAKEDONIA TV HD
+URL1:http://dlm34ll53zqql.cloudfront.net/out/v1/ab680def497d44e4864475e33e7a3efd/hls/maktv.m3u8
 Channel name:ANT1 EUROPE
 URL1:http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 Channel name:NETMAX TV
@@ -52,6 +56,8 @@ Channel name:VOULI
 URL1:http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 Channel name:RIK SAT CY
 URL1:http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+Channel name:ANT1 CY
+URL1:http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 Channel name:SIGMA
 URL1:http://sl2.sigmatv.com/hls/live.m3u8
 Channel name:DIGITAL TV CY
@@ -64,12 +70,12 @@ Channel name:FAROS TV CY
 URL1:http://s1.cystream.net/live/faros1/playlist.m3u8
 Channel name:FAROS TV2 CY
 URL1:http://s1.cystream.net/live/faros2/playlist.m3u8
+Channel name:NAFTEMPORIKH TV
+URL1:http://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_1395f0f0301a11edbe930342f38886b5/tracks-v2a1/mono.m3u8
 Channel name:ONE TV
 URL1:http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 Channel name:ACTION 24
 URL1:http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-Channel name:NAFTEMPORIKH TV
-URL1:http://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_1395f0f0301a11edbe930342f38886b5/tracks-v2a1/mono.m3u8
 Channel name:APT
 URL1:http://127.0.0.1:88/http://www.twitch.tv/arttileorasi
 Channel name:KONTRA
@@ -168,6 +174,8 @@ Channel name:BARAZA TV RELAXING
 URL1:http://eu1.netmax-host.eu:1936/baraza/baraza/playlist.m3u8
 Channel name:BARAZA TV HD Greek Hits
 URL1:http://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+Channel name:BARAZA TV Deep House Music
+URL1:http://ssh101.bozztv.com/ssh101/music/playlist.m3u8
 Channel name:NRG TV
 URL1:http://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 Channel name:PANIK TV
@@ -230,8 +238,6 @@ Channel name:DESTINATION GREECE TV
 URL1:http://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
 Channel name:STENT TV
 URL1:http://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
-Channel name:AVANTI TV
-URL1:http://www.youtube.com/channel/UCEjw3vWxIsFqa64wnd845zg/live
 Channel name:MILOS TV
 URL1:http://s2.netmax-host.eu:5062/milostv/milostv/playlist.m3u8
 Channel name:AKTINA TV
@@ -276,6 +282,16 @@ Channel name:ARTS TIME
 URL1:http://127.0.0.1:88/http://www.twitch.tv/artstime
 Channel name:PRO NEWS WEB 
 URL1:http://127.0.0.1:88/http://www.twitch.tv/pronewstv
+Channel name:TV KOSMOS
+URL1:http://ssh101.bozztv.com/ssh101/tvkosmoslive/playlist.m3u8
+Channel name:DIAMOND TV
+URL1:http://kali.vdopanel.com:3122/stream/play.m3u8
+Channel name:CRECA TV
+URL1:http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
+Channel name:ASTRA TV BUP
+URL1:http://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
+Channel name:CENTER TV BUP
+URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/centertv&checkedby:Greektv
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -290,5 +306,5 @@ Channel name:Ert Sports6
 URL1:http://195.226.218.160/vid/ertplay6/mpeg.2ts
 Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
-Channel name:Sat Feb  4 21:28:47 UTC 2023
+Channel name:Mon Feb  6 05:20:51 UTC 2023
 URL1:http//www.dummytest.org.gr
