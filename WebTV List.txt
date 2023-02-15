@@ -8,18 +8,10 @@ Channel name:ERT NEWS
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 Channel name:MEGA HD
 URL1:http://streamcdnh19-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-Channel name:MEGA HD BUP
-URL1:http://135.181.180.153:8976/Mega/index.m3u8
-Channel name:ANT1 HD
-URL1:http://135.181.180.153:8976/Ant1HD/index.m3u8 
 Channel name:ALPHA HD
 URL1:http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-Channel name:ALPHA HD BUP
-URL1:http://135.181.180.153:8976/AlphaHD/index.m3u8 
 Channel name:STAR HD 
 URL1:http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-Channel name:STAR BUP
-URL1:http://135.181.180.153:8976/StarHD/index.m3u8
 Channel name:SKAI HD 
 URL1:http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 Channel name:OPEN TV HD
@@ -46,8 +38,6 @@ Channel name:CINEMA CLASSICS
 URL1:http://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 Channel name:DTV 6
 URL1:http://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
-Channel name:IONIA TV
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/tvioniathessalonikis&checkedby:Greektv
 Channel name:SMILE TV CY
 URL1:http://s1.cystream.net/live/smile/playlist.m3u8
 Channel name:KIDS TV
@@ -99,8 +89,6 @@ URL1:http://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 Channel name:EPSILON TV
 URL1:http://edge1.mystream.gr/video427009/live/playlist.m3u8
 Channel name:ART 
-URL1:http://135.181.180.153:8976/Art/index.m3u8
-Channel name:ART BUP
 URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/arttileorasi&checkedby:Greektv
 Channel name:4E
 URL1:http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
@@ -197,7 +185,7 @@ URL1:http://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 Channel name:PLP
 URL1:http://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 Channel name:NAFTEMPORIKΙ TV
-URL1:http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/live-video=6499968.m3u8
+URL1:http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 Channel name:MAD TV
 URL1:http://www.youtube.com/c/madtvgreece/live
 Channel name:NRG TV
@@ -324,5 +312,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Mon Feb 13 05:21:52 UTC 2023
+Channel name:Wed Feb 15 05:22:18 UTC 2023
 URL1:http//www.dummytest.org.gr
