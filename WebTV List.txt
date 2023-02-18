@@ -44,17 +44,9 @@ Channel name:KIDS TV
 URL1:http://65.108.62.57:8080/live/kidshd.m3u8
 Channel name:WB KIDS
 URL1:http://d807d636299c41678ab04e3ae475f818.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-Digitaltree/0dac99ff-0171-4204-809c-c5f65a660e05/0.m3u8
-Channel name:ZOYZOYNIA TV 1
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/watch?v=Gmf871DlkBE
-Channel name:ZOYZOYNIA TV 2
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/watch?v=toOOdFofPoY
-Channel name:ZOYZOYNIA TV 3
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/watch?v=-IEei-d2ZK4
 Channel name:ERT WORLD 
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 Channel name:EURONEWS 
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/embed/video/x2j7kha&checkedby:Greektv
-Channel name:EURONEWS BUP
 URL1:http://www.youtube.com/c/euronewsGreek/live
 Channel name:VOULI 
 URL1:http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -62,8 +54,6 @@ Channel name:RIK SAT CY
 URL1:http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 Channel name:SIGMA CY
 URL1:http://sl2.sigmatv.com/hls/live.m3u8
-Channel name:BERGINA TV CY
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/verginacy&checkedby:Greektv
 Channel name:FAROS TV CY
 URL1:http://s1.cystream.net/live/faros1/playlist.m3u8
 Channel name:FAROS TV2 CY
@@ -80,22 +70,16 @@ Channel name:ACTION 24
 URL1:http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 Channel name:KONTRA
 URL1:http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-Channel name:BLUE SKY
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/video/x7z731p&checkedby:Greektv
 Channel name:HIGH TV
 URL1:http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 Channel name:ALERT
 URL1:http://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 Channel name:EPSILON TV
 URL1:http://edge1.mystream.gr/video427009/live/playlist.m3u8
-Channel name:ART 
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/arttileorasi&checkedby:Greektv
 Channel name:4E
 URL1:http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 Channel name:TV 100
 URL1:http://live.fm100.gr/hls/tv100/index.m3u8
-Channel name:BERGINA TV
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/verginachannel&checkedby:Greektv
 Channel name:KRHTH TV
 URL1:http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 Channel name:NEA TV
@@ -108,24 +92,16 @@ Channel name:DELTA TV
 URL1:http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 Channel name:THRAKINET
 URL1:http://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-Channel name:CENTER TV
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/centertv&checkedby:Greektv
 Channel name:IONIAN CHANNEL
 URL1:http://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 Channel name:FORMEDIA TV
 URL1:http://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
-Channel name:LEPANTO
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/lepantotv&checkedby:Greektv
-Channel name:STAR K.E.
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/embed/video/xqjey2&checkedby:Greektv
 Channel name:AXELWOS TV
 URL1:http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 Channel name:BEST TV
 URL1:http://stream.net7.gr/hls/best/index.m3u8
 Channel name:TRT TV
 URL1:http://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
-Channel name:THESSALIA TV
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/thessaliatv&checkedby:Greektv
 Channel name:MESOGEIOS TV
 URL1:http://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 Channel name:EPIRUS TV1
@@ -144,8 +120,6 @@ Channel name:CORFU CHANNEL
 URL1:http://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 Channel name:SAMIAKI TV
 URL1:http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-Channel name:DION TV
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/diontvkentrikismakedonias&checkedby:Greektv
 Channel name:TILE EPILOGES
 URL1:http://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 Channel name:GNOMI TV
@@ -156,24 +130,16 @@ Channel name:AEOLOS TV
 URL1:http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 Channel name:ORT TV
 URL1:http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
-Channel name:FLASH TV
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/flashtvgr&checkedby:Greektv
 Channel name:IRIDA TV
 URL1:http://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 Channel name:ETV
 URL1:http://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 Channel name:ED TV
 URL1:http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
-Channel name:STAR B.E.
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/tvstarfm&checkedby:Greektv
-Channel name:TV KOSMOS
-URL1:http://ssh101.bozztv.com/ssh101/tvkosmoslive/playlist.m3u8
 Channel name:ART TV
 URL1:http://til.pp.ua:3026/live/arttvgrlive.m3u8
 Channel name:ASTRA TV
 URL1:http://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
-Channel name:EURO TV
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/eurochannel&checkedby:Greektv
 Channel name:PRO NEWS
 URL1:http://til.pp.ua:3424/live/superblive.m3u8
 Channel name:LYCHNOS
@@ -276,8 +242,6 @@ Channel name:NS TV
 URL1:http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
 Channel name:HELLENIC TV
 URL1:http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-Channel name: DTP
-URL1:http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.twitch.tv/pyliatv
 Channel name:ELLADA TV
 URL1:http://castvideo.eu:3384/live/elladalive.m3u8
 Channel name:AKTINA TV
@@ -312,5 +276,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Wed Feb 15 05:22:18 UTC 2023
+Channel name:Sat Feb 18 05:20:32 UTC 2023
 URL1:http//www.dummytest.org.gr
