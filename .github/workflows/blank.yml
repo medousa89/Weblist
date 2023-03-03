@@ -53,10 +53,9 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: "./WebTV List.txt"
-          asset_name: "WebTV'  'List.txt"
+          asset_name: "WebTV&nbsp;List.txt"
           title: "Release: $tag"
           tag: 'tv'
           required: true
-          prerelease: true
           overwrite: true
           draft: true
