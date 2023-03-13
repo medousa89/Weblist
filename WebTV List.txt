@@ -85,7 +85,7 @@ URL1:http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 Channel name:KONTRA
 URL1:http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 Channel name:ATTICA TV
-URL1:http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+URL1:http://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive_480p/chunks.m3u8
 Channel name:HIGH TV
 URL1:http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 Channel name:ALERT
@@ -157,7 +157,7 @@ URL1:http://til.pp.ua:3026/live/arttvgrlive.m3u8
 Channel name:ASTRA TV
 URL1:http://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 Channel name:PRO NEWS
-URL1:http://til.pp.ua:3424/live/superblive.m3u8
+URL1:http://storemusic.top:8222/pronewstv/pronewstv/playlist.m3u8
 Channel name:LYCHNOS
 URL1:http://thor.mental-media.gr:19360/imp/imp.m3u8
 Channel name:PELLA TV
@@ -286,5 +286,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Mar 11 05:20:07 UTC 2023
+Channel name:Mon Mar 13 05:21:47 UTC 2023
 URL1:http//www.dummmytest.org.gr
