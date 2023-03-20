@@ -112,6 +112,8 @@ Channel name:IONIAN CHANNEL
 URL1:http://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 Channel name:FORMEDIA TV
 URL1:http://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
+Channel name:AEOLOS TV
+URL1:http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 Channel name:AXELWOS TV
 URL1:http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 Channel name:BEST TV
@@ -140,10 +142,6 @@ Channel name:TILE EPILOGES
 URL1:http://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 Channel name:GNOMI TV
 URL1:http://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
-Channel name:HLEKTRA TV
-URL1:http://stream.sy3dud.com:5443/LiveApp/streams/929478179740925265301306.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
-Channel name:AEOLOS TV
-URL1:http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 Channel name:ORT TV
 URL1:http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
 Channel name:IRIDA TV
@@ -286,5 +284,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Mar 18 05:24:02 UTC 2023
+Channel name:Mon Mar 20 05:25:32 UTC 2023
 URL1:http//www.dummmytest1.org.gr
