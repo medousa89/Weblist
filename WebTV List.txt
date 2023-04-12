@@ -250,8 +250,6 @@ Channel name:AKTINA TV
 URL1:http://5e8dfce185af1.streamlock.net:443/AktinaWebTv/AktinaWebTv/playlist.m3u8
 Channel name:ELLAS TV
 URL1:http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
-Channel name:ELLINIKOS FM
-URL1:http://itv.streams.ovh/ellinikosfm/ellinikosfm/playlist.m3u8
 Channel name:FASHION TV GREECE
 URL1:http://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/0/profileManifest.m3u8?_uid=76708f3d-29e5-4326-9331-b075d3c68267&rK=eu
 Channel name:TV FILOPOLI
@@ -278,5 +276,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Mon Apr 10 05:23:52 UTC 2023
+Channel name:Wed Apr 12 05:23:30 UTC 2023
 URL1:http//www.dummmytest1.org.gr
