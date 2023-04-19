@@ -56,14 +56,14 @@ Channel name:VOULI
 URL1:http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 Channel name:RIK SAT CY
 URL1:http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-Channel name:SIGMA CY
-URL1:http://sl2.sigmatv.com/hls/live.m3u8
 Channel name:ANT1 CY
 URL1:http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 Channel name:ALPHA CY
 URL1:http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIzIDg6MzU6NTIgQU0maGFzaF92YWx1ZT1zMFB1ZVhZOGlSdU03YzRHOS9FVmN3PT0mdmFsaWRtaW51dGVzPTM2MA==
 Channel name:OMEGA CY
 URL1:http://l4.cloudskep.com/omegatv/omcy/playlist.m3u8
+Channel name:SIGMA CY
+URL1:http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
 Channel name:FAROS TV CY
 URL1:http://s1.cystream.net/live/faros1/playlist.m3u8
 Channel name:FAROS TV2 CY
@@ -276,5 +276,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Mon Apr 17 05:24:08 UTC 2023
+Channel name:Wed Apr 19 05:24:18 UTC 2023
 URL1:http//www.dummmytest1.org.gr
