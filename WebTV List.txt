@@ -276,5 +276,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Apr 29 05:22:46 UTC 2023
+Channel name:Mon May  1 05:24:07 UTC 2023
 URL1:http//www.dummmytest1.org.gr
