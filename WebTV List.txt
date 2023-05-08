@@ -84,8 +84,6 @@ Channel name:HIGH TV
 URL1:http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 Channel name:ALERT
 URL1:http://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-Channel name:EPSILON TV
-URL1:http://edge1.mystream.gr/video427009/live/playlist.m3u8
 Channel name:4E
 URL1:http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 Channel name:TV 100
@@ -130,10 +128,6 @@ Channel name:START TV
 URL1:http://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 Channel name:CORFU CHANNEL
 URL1:http://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-Channel name:SAMIAKI TV
-URL1:http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-Channel name:TILE EPILOGES
-URL1:http://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 Channel name:GNOMI TV
 URL1:http://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 Channel name:ORT TV
@@ -149,7 +143,7 @@ URL1:http://til.pp.ua:3026/live/arttvgrlive.m3u8
 Channel name:ASTRA TV
 URL1:http://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 Channel name:PRO NEWS
-URL1:http://storemusic.top:8222/pronewstv/pronewstv/playlist.m3u8
+URL1:http://di-8zai2lrc.leasewebultracdn.com/pronews/ngrp:myStream_all/playlist.m3u8
 Channel name:LYCHNOS
 URL1:http://thor.mental-media.gr:19360/imp/imp.m3u8
 Channel name:PELLA TV
@@ -276,5 +270,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat May  6 05:22:30 UTC 2023
+Channel name:Mon May  8 05:24:09 UTC 2023
 URL1:http//www.dummmytest1.org.gr
