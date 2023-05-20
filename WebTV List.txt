@@ -7,7 +7,7 @@ URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr
 Channel name:ERT NEWS
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 Channel name:MEGA HD
-URL1:http://streamcdnh11-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+URL1:http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 Channel name:ANT1 HD
 URL1:http://d1nfykbwa3n98t.cloudfront.net/out/v1/b0966e1e2108447ca9d90048c9ddc951/ant1-cmaf/ant1.m3u8
 Channel name:ALPHA HD
@@ -274,5 +274,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Wed May 17 05:23:30 UTC 2023
+Channel name:Sat May 20 05:23:14 UTC 2023
 URL1:http//www.dummmytest1.org.gr
