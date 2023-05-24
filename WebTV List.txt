@@ -82,8 +82,6 @@ Channel name:KONTRA
 URL1:http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 Channel name:ATTICA TV
 URL1:http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-Channel name:ART 
-URL1:http://rumble.com/live-hls/2lw7la/playlist.m3u8?
 Channel name:HIGH TV
 URL1:http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 Channel name:ALERT
@@ -276,5 +274,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Mon May 22 05:24:30 UTC 2023
+Channel name:Wed May 24 05:23:46 UTC 2023
 URL1:http//www.dummmytest1.org.gr
