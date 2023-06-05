@@ -114,6 +114,8 @@ Channel name:AXELWOS TV
 URL1:http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 Channel name:BEST TV
 URL1:http://stream.net7.gr/hls/best/index.m3u8
+Channel name:THESSALIA TV
+URL1:http://raw.githubusercontent.com/komhsgr/m3u/main/Thessalia.m3u8
 Channel name:TRT TV
 URL1:http://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 Channel name:MESOGEIOS TV
@@ -150,8 +152,6 @@ Channel name:ED TV
 URL1:http://s2.netmax-host.eu:5062/tvd/tvd/playlist.m3u8
 Channel name:ART TV
 URL1:http://til.pp.ua:3026/live/arttvgrlive.m3u8
-Channel name:ASTRA TV
-URL1:http://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
 Channel name:PRO NEWS
 URL1:http://di-8zai2lrc.leasewebultracdn.com/pronews/ngrp:myStream_all/playlist.m3u8
 Channel name:LYCHNOS
@@ -282,5 +282,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Jun  3 05:22:28 UTC 2023
+Channel name:Mon Jun  5 05:24:04 UTC 2023
 URL1:http//www.dummmytest1.org.gr
