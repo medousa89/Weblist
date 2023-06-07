@@ -114,8 +114,6 @@ Channel name:AXELWOS TV
 URL1:http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 Channel name:BEST TV
 URL1:http://stream.net7.gr/hls/best/index.m3u8
-Channel name:THESSALIA TV
-URL1:http://raw.githubusercontent.com/komhsgr/m3u/main/Thessalia.m3u8
 Channel name:TRT TV
 URL1:http://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 Channel name:MESOGEIOS TV
@@ -123,7 +121,7 @@ URL1:http://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 Channel name:EPIRUS TV1
 URL1:http://til.pp.ua:3928/live/epiruslive.m3u8
 Channel name:TOP CHANNEL
-URL1:http://eu1.netmax-host.eu:1936/topchannel/topchannel/playlist.m3u8
+URL1:http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 Channel name:ALFA 
 URL1:http://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 Channel name:SYROS TV1
@@ -141,7 +139,7 @@ URL1:http://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 Channel name:GNOMI TV
 URL1:http://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 Channel name:ORT TV
-URL1:http://s2.netmax-host.eu:5062/ort/ort/playlist.m3u8
+URL1:http://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 Channel name:ITV
 URL1:http://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
 Channel name:IRIDA TV
@@ -189,7 +187,7 @@ URL1:http://vod.streams.ovh:3528/stream/play.m3u8
 Channel name:RELOAD RADIO
 URL1:http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 Channel name:RED MUSIC
-URL1:http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
+URL1:http://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
 Channel name:ZOUGLA TV
 URL1:http://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 Channel name:TILEMOUSIKI
@@ -282,5 +280,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Mon Jun  5 05:24:04 UTC 2023
+Channel name:Wed Jun  7 05:23:55 UTC 2023
 URL1:http//www.dummmytest1.org.gr
