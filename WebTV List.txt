@@ -40,8 +40,6 @@ Channel name:GROOVY
 URL1:http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 Channel name:CINEMA CLASSICS
 URL1:http://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
-Channel name:DTV 6
-URL1:http://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 Channel name:SMILE TV CY
 URL1:http://s1.cystream.net/live/smile/playlist.m3u8
 Channel name:KIDS TV
@@ -296,5 +294,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Jul  8 05:26:11 UTC 2023
+Channel name:Mon Jul 10 05:27:37 UTC 2023
 URL1:http//www.dummmytest1.org.gr
