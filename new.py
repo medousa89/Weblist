@@ -34,4 +34,3 @@ try:
                 f.write("#NAME GreekStreamTV\n")
                 for (name, service) in tvlist:
                     f.write(service)
-            from enigma import eDVBDB
