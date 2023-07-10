@@ -1,13 +1,5 @@
 #!/usr/bin/python3
 
-from .stream import GreekStreamTVList
-from Plugins.Plugin import PluginDescriptor
-from Components.MenuList import MenuList
-from Screens.Screen import Screen
-from Screens.MessageBox import MessageBox
-from Components.ActionMap import ActionMap
-from Components.Sources.StaticText import StaticText
-from Screens.Console import Console
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from os import path, listdir
 
