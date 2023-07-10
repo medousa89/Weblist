@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-from . import _
 from .stream import GreekStreamTVList
 from Plugins.Plugin import PluginDescriptor
 from Components.MenuList import MenuList
