@@ -35,7 +35,3 @@ try:
                 for (name, service) in tvlist:
                     f.write(service)
             from enigma import eDVBDB
-            eDVBDB.getInstance().reloadBouquets()
-            eDVBDB.getInstance().reloadServicelist()
-            tmpMessage = _("GreekStreamTV bouquet updated successfully.")
-            
