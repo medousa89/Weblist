@@ -30,8 +30,4 @@ try:
                 service = "#SERVICE {s}:0:1:{e}:{e}:0:0:0:0:0:{u}:{n}\n".format(s=serviceType, e=epgId, u=uri, n=name)
                 tvlist.append((name,service))
             tvlist = sorted(tvlist, key=lambda channel: channel[0]) # sort by name
-            with open(GSBQ, "w") as f:
-                f.write("#NAME GreekStreamTV\n")
-                for (name, service) in tvlist:
-                    f.write(service)
                     
