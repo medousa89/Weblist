@@ -38,4 +38,4 @@ try:
             eDVBDB.getInstance().reloadBouquets()
             eDVBDB.getInstance().reloadServicelist()
             tmpMessage = _("GreekStreamTV bouquet updated successfully.")
-                        
+            
