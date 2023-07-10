@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 from os import path, listdir
 
-GSXML = resolveFilename(SCOPE_PLUGINS, "stream.xml")
+GSXML = "stream.xml"
 GSBQ = "userbouquet.greekstreamtv.tv"
 
 try:
