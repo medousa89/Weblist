@@ -38,7 +38,6 @@ try:
             eDVBDB.getInstance().reloadBouquets()
             eDVBDB.getInstance().reloadServicelist()
             tmpMessage = _("GreekStreamTV bouquet updated successfully.")
-        except Exception as err:
+        except Exception , err:
             print("[GreekStreamTV] Exception: %s" % err)
-            tmpMessage = _("GreekStreamTV bouquet update failed.")
-            self.session.open(MessageBox, tmpMessage, MessageBox.TYPE_ERROR)
+                        
