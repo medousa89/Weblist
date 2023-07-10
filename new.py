@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 from . import _
 from .stream import GreekStreamTVList
