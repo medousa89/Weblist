@@ -8,7 +8,7 @@ on:
   # * is a special character in YAML so you have to quote this string
    - cron:  '11 5 * * 1,3,6'
   push:
-     branches: [ main ]
+     branches: [ new ]
 
 
   # Allows you to run this workflow manually from the Actions tab
