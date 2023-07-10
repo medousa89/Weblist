@@ -35,6 +35,7 @@ jobs:
       - name: Run script
         run: |
           sh test.sh
+          rm -rf stream.xml
           ls
         
       - name: commit 
@@ -55,7 +56,7 @@ jobs:
           file: "./WebTV List.txt"
           asset_name: "WebTV_List.txt"
           title: "Release: $tag"
-          tag: 'tv'
+          tag: 'new'
           required: true
           overwrite: true
           draft: true
