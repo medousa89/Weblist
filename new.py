@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-
-from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from os import path, listdir
 
 GSXML = resolveFilename(SCOPE_PLUGINS, "stream.xml")
