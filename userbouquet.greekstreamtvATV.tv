@@ -1,4 +1,4 @@
-#NAME GreekStreamTV
+#NAME GreekStreamTVatv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.mediacp.eu%3a8081/10channel/tracks-v1a1/mono.m3u8:10 Channel
 #SERVICE 4097:0:1:5850:5850:0:0:0:0:0:http%3a//eu2.tv4e.gr%3a1935/live/smil%3amyStream.sdp.smil/playlist.m3u8:4E
 #SERVICE 4097:0:1:3004:3004:0:0:0:0:0:http%3a//actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8:Action 24
@@ -161,5 +161,5 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ythls.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8:Zoyzoynia Tv
-#SERVICE 1:64:270:0:0:0:0:0:0:0::_____::| Tue Jul 11 06:25:55 UTC 2023|::_____
-#DESCRIPTION _____::| Tue Jul 11 06:25:55 UTC 2023|::_____
+#SERVICE 1:64:270:0:0:0:0:0:0:0::_____::| Tue Jul 11 06:48:11 UTC 2023|::_____
+#DESCRIPTION _____::| Tue Jul 11 06:48:11 UTC 2023|::_____
