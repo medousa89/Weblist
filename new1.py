@@ -20,7 +20,7 @@ try:
                 tvlist.append((name,service))
             tvlist = sorted(tvlist, key=lambda channel: channel[0]) # sort by name
             with open(GSBQ, "w") as f:
-                f.write("#NAME GreekStreamTV\n")
+                f.write("#NAME GreekStreamTVatv\n")
                 for (name, service) in tvlist:
                     f.write(service)
 except Exception as err:
