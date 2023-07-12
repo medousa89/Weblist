@@ -1,0 +1,60 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. 
+on:
+  schedule:
+  # * is a special character in YAML so you have to quote this string
+   - cron:  '13 6 * * 1,3,6'
+  push:
+     branches: [ atv ]
+
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-20.04
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
+      - name: install packages
+        run: |
+         sudo apt-get update -y
+         sudo apt-get install -y sed
+   
+      # Runs a set of commands using the runners shell
+      - name: Run script
+        run: |
+          sh test.sh
+          ls
+        
+      - name: commit 
+        run: |
+          git config --local user.name ${{ github.actor }}
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git add *.tv
+          git commit -m "new data from job ${{ github.run_number }}"
+          git pull origin "${{ github.ref }}" --autostash --rebase -Xours
+          git push origin "${{ github.ref }}"
+          git log --name-only
+          git status
+          
+      - name: Upload
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: "./userbouquet.greekstreamtvATV.tv"
+          title: "Release: $tag"
+          tag: 'new'
+          required: true
+          overwrite: true
+          draft: true
