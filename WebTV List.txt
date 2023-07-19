@@ -33,7 +33,7 @@ URL1:http://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 Channel name:DIAVATA TV HD
 URL1:http://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 Channel name:NETV TORONTO HD
-URL1:http://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
+URL1:http://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 Channel name:NETV EUROPE HD
 URL1:http://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 Channel name:GROOVY
@@ -73,9 +73,9 @@ URL1:http://s1.cystream.net/live/faros2/playlist.m3u8
 Channel name:ALFA SPORT CY
 URL1:http://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 Channel name:CITY CHANNEL
-URL1:http://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
+URL1:http://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 Channel name:VOULI TV CY
-URL1:http://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+URL1:http://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 Channel name:ACTION 24
 URL1:http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 Channel name:KONTRA
@@ -294,5 +294,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Mon Jul 17 05:27:25 UTC 2023
+Channel name:Wed Jul 19 05:24:18 UTC 2023
 URL1:http//www.dummmytest1.org.gr
