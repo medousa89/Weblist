@@ -26,6 +26,8 @@ Channel name:BCI CINEMA
 URL1:http://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
 Channel name:BCI GREEK
 URL1:http://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
+Channel name:BCI CLACCIC
+URL1:http://eu1.vectromdigital.com:1936/bciclassic/bciclassic/playlist.m3u8
 Channel name:CINEMA TIME
 URL1:http://s1.cystream.net/live/34100/playlist.m3u8
 Channel name:GALAXY GR
@@ -46,14 +48,12 @@ Channel name:KIDS TV
 URL1:http://65.108.62.57:8080/live/kidshd.m3u8
 Channel name:BCI KIDS
 URL1:http://eu1.vectromdigital.com:1936/bcikids/bcikids/playlist.m3u8
-Channel name:WB KIDS
-URL1:http://ythls.onrender.com/channel/UCniI-BQk7qAtXNmmz40LSdg.m3u8
 Channel name:ZOYZOYNIA TV
 URL1:http://ythls.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8
 Channel name:ERT WORLD 
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 Channel name:EURONEWS 
-URL1:http://ythls.onrender.com/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8 
+URL1:http://www.youtube.com/watch?v=uWIhV9gQClg
 Channel name:VOULI 
 URL1:http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 Channel name:RIK SAT CY
@@ -61,21 +61,13 @@ URL1:http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 Channel name:ANT1 CY
 URL1:http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 Channel name:ALPHA CY
-URL1:http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIzIDg6MzU6NTIgQU0maGFzaF92YWx1ZT1zMFB1ZVhZOGlSdU03YzRHOS9FVmN3PT0mdmFsaWRtaW51dGVzPTM2MA==
-Channel name:OMEGA CY
-URL1:http://l4.cloudskep.com/omegatv/omcy/playlist.m3u8
+URL1:http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIzIDY6NDU6MzMgQU0maGFzaF92YWx1ZT14Tk1OaTVQdkFrRFk1Y01uMmF4N2tnPT0mdmFsaWRtaW51dGVzPTM2MA==
 Channel name:SIGMA CY
 URL1:http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
 Channel name:FAROS TV CY
 URL1:http://s1.cystream.net/live/faros1/playlist.m3u8
 Channel name:FAROS TV2 CY
 URL1:http://s1.cystream.net/live/faros2/playlist.m3u8
-Channel name:ALFA SPORT CY
-URL1:http://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-Channel name:CITY CHANNEL
-URL1:http://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
-Channel name:VOULI TV CY
-URL1:http://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 Channel name:ACTION 24
 URL1:http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 Channel name:KONTRA
@@ -136,10 +128,6 @@ Channel name:TILE EPILOGES
 URL1:http://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 Channel name:GNOMI TV
 URL1:http://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
-Channel name:ORT TV
-URL1:http://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
-Channel name:ITV
-URL1:http://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
 Channel name:IRIDA TV
 URL1:http://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 Channel name:ETV
@@ -158,8 +146,6 @@ Channel name:PELLA TV
 URL1:http://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 Channel name:EGNATIA TV
 URL1:http://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-Channel name:PLP
-URL1:http://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 Channel name:NAFTEMPORIKΙ TV
 URL1:http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 Channel name:MAD TV
@@ -174,8 +160,6 @@ Channel name:BARAZA TV RELAXING
 URL1:http://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 Channel name:BARAZA TV Deep 
 URL1:http://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-Channel name:BARAZA Baraza RNB & HIP HOP
-URL1:http://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8 
 Channel name:PANIK TV
 URL1:http://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 Channel name:RED MUSIC
@@ -210,8 +194,6 @@ Channel name:PRIME NEWS TV
 URL1:http://vdo.alphaserver.gr:3411/stream/play.m3u8
 Channel name:MESSINIA TV
 URL1:http://til.pp.ua:3303/live/messiniatvlive.m3u8
-Channel name:DIAMOND TV
-URL1:http://kali.vdopanel.com:3122/stream/play.m3u8
 Channel name:GRD CHANNEL
 URL1:http://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 Channel name:DESTINATION GREECE TV
@@ -226,14 +208,16 @@ Channel name:BCI TRAVEL
 URL1:http://eu1.vectromdigital.com:1936/bcitravel/bcitravel/playlist.m3u8
 Channel name:BCI DOCUMENTARY
 URL1:http://eu1.vectromdigital.com:1936/bcidocumentary/bcidocumentary/playlist.m3u8
+Channel name:BCI FOOD
+URL1:http://eu1.vectromdigital.com:1936/bcifood/bcifood/playlist.m3u8
 Channel name:GREEK TV LONDON
 URL1:http://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 Channel name:MONTREAL GREEK TV
 URL1:http://live.greektv.ca/hls1/greektv.m3u8
+Channel name:PLP
+URL1:http://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 Channel name:CRECA TV
 URL1:http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
-Channel name:10 CHANNEL
-URL1:http://tv.mediacp.eu:8081/10channel/tracks-v1a1/mono.m3u8
 Channel name:STENT TV
 URL1:http://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 Channel name:GREEK VOICE 
@@ -244,26 +228,22 @@ Channel name:PEMPTOUSIA TV
 URL1:http://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
 Channel name:TV DIPSO 
 URL1:http://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-Channel name:PISTH TV
-URL1:http://dev.aftermind.xyz/edge-hls/unitrust/pisti/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
 Channel name:BCI NEWS
 URL1:http://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 Channel name:NOTIOI TV
 URL1:http://srv.streamserver.gr:3451/stream/play.m3u8
+Channel name:AKTINA TV
+URL1:http://5e8dfce185af1.streamlock.net/webtv/webtv/playlist.m3u8
 Channel name:NS TV
-URL1:http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
+URL1:http://til.pp.ua:3262/live/nstv7live.m3u8
 Channel name:HELLENIC TV
 URL1:http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-Channel name:ELLADA TV
-URL1:http://til.pp.ua:3489/live/elladatvlive.m3u8
-Channel name:AKTINA TV
-URL1:http://5e8dfce185af1.streamlock.net:443/AktinaWebTv/AktinaWebTv/playlist.m3u8
 Channel name:ELLAS TV
 URL1:http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 Channel name:ELLINIKOS FM
 URL1:http://til.pp.ua:3093/live/ellinikosfmlive.m3u8
-Channel name:FASHION TV GREECE
-URL1:http://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/0/profileManifest.m3u8?_uid=76708f3d-29e5-4326-9331-b075d3c68267&rK=eu
+Channel name:10 CHANNEL
+URL1:http://tv.mediacp.eu:8081/10channel/tracks-v1a1/mono.m3u8
 Channel name:TV FILOPOLI
 URL1:http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 Channel name:ERT SPORTS 
@@ -294,5 +274,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Jul 22 08:23:47 EEST 2023
+Channel name:Mon Jul 24 08:25:04 EEST 2023
 URL1:http//www.dummmytest1.org.gr
