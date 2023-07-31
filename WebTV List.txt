@@ -26,7 +26,7 @@ Channel name:BCI CINEMA
 URL1:http://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
 Channel name:BCI GREEK
 URL1:http://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
-Channel name:BCI CLACCIC
+Channel name:BCI CLASSIC
 URL1:http://eu1.vectromdigital.com:1936/bciclassic/bciclassic/playlist.m3u8
 Channel name:CINEMA TIME
 URL1:http://s1.cystream.net/live/34100/playlist.m3u8
@@ -201,7 +201,7 @@ URL1:http://til.pp.ua:3303/live/messiniatvlive.m3u8
 Channel name:GRD CHANNEL
 URL1:http://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 Channel name:DESTINATION GREECE TV
-URL1:http://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
+URL1:http://2-fss-1.streamhoster.com/pl_148/203374-1960324-1/playlist.m3u8
 Channel name:IME WEB TV
 URL1:http://theagenis.fhw.gr:8080/maintv.mp4
 Channel name:MGR TV TRAVEL
@@ -230,8 +230,6 @@ Channel name:EKKLHSIA TV HD
 URL1:http://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 Channel name:PEMPTOUSIA TV
 URL1:http://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
-Channel name:TV DIPSO 
-URL1:http://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 Channel name:BCI NEWS
 URL1:http://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 Channel name:NOTIOI TV
@@ -278,5 +276,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Jul 29 08:22:55 EEST 2023
+Channel name:Mon Jul 31 08:24:29 EEST 2023
 URL1:http//www.dummmytest1.org.gr
