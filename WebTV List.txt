@@ -1,265 +1,265 @@
 Channel name:ERT1 HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ERT2 HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ERT3 HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ERT NEWS
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:MEGA HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ANT1 HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ALPHA HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:STAR HD 
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:SKAI HD 
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:OPEN TV HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:MAK. HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ANT1 COMEDY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ANT1 DRAMA
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:NETMAX TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BCI CINEMA
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BCI GREEK
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BCI CLASSIC
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:CINEMA TIME
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:GALAXY GR
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:DIAVATA TV HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:NETV TORONTO HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:NETV EUROPE HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:GROOVY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:CINEMA CLASSICS
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:SMILE TV CY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:KIDS TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BCI KIDS
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ZOYZOYNIA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ERT WORLD 
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:EURONEWS 
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:VOULI 
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:RIK SAT CY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ANT1 CY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:SIGMA CY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:FAROS TV CY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:FAROS TV2 CY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ALFA SPORT CY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:CITY CHANNEL
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:VOULI TV CY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ACTION 24
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:KONTRA
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ATTICA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BLUE SKY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:HIGH TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ALERT
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:4E
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:TV 100
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:KRHTH TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:NEA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:CRETA
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ENA CHANNEL
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:DELTA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:THRAKINET
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:IONIAN CHANNEL
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:FORMEDIA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:AEOLOS TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:AXELWOS TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BEST TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:TRT TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:EPIRUS TV1
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:TOP CHANNEL
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ALFA 
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:SYROS TV1
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:DIKTYO TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:START TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:CORFU CHANNEL
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:SAMIAKI TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:TILE EPILOGES
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:GNOMI TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:IRIDA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ETV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:MESOGEIOS TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ED TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ART TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:PRO NEWS
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:LYCHNOS
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:PELLA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:EGNATIA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:NAFTEMPORIKΙ TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:MAD TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:NRG TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BARAZA TV HD 
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BARAZA TV HD Greek Hits
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BARAZA TV RELAXING
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BARAZA TV Deep 
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:PANIK TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:RED MUSIC
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:NG TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:REAL MUSIC TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BCI MUSIC
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:CHOICE
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:RELOAD RADIO
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ZOUGLA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:TILEMOUSIKI
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:MGR TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:PLAY TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:KLIK TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:MESSATIDA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:XALASTRA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:MAGIC TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:PRIME NEWS TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:MESSINIA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:GRD CHANNEL
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:DESTINATION GREECE TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:IME WEB TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:MGR TV TRAVEL
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:XPLORE
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BCI TRAVEL
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BCI DOCUMENTARY
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BCI FOOD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:GREEK TV LONDON
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:MONTREAL GREEK TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:PLP
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:CRECA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:STENT TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:GREEK VOICE 
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:EKKLHSIA TV HD
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:PEMPTOUSIA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:BCI NEWS
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:NOTIOI TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:AKTINA TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:NS TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:HELLENIC TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ELLAS TV
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ELLINIKOS FM
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:10 CHANNEL
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:TV FILOPOLI
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ERT SPORTS 
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ERT SPORTS 2
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:ANT1 F1
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:HORSE RACES
-URL1:http://resources.greektv.app/promo/greektvpromo.mp4
+URL1:http://assets.greektv.app/promo/greektvpromo.mp4
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -276,5 +276,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Wed Sep  6 08:23:59 EEST 2023
+Channel name:Sat Sep  9 08:22:43 EEST 2023
 URL1:http//www.dummmytest1.org.gr
