@@ -36,20 +36,12 @@ Channel name:DIAVATA TV HD
 URL1:http://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 Channel name:CINEMA TIME
 URL1:http://s1.cystream.net/live/34100/playlist.m3u8
-Channel name:BCI GREEK
-URL1:http://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
-Channel name:BCI CINEMA
-URL1:http://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
-Channel name:BCI CLASSIC
-URL1:http://eu1.vectromdigital.com:1936/bciclassic/bciclassic/playlist.m3u8
 Channel name:CINEMA CLASSICS
 URL1:http://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 Channel name:SMILE TV CY
 URL1:http://s1.cystream.net/live/smile/playlist.m3u8
 Channel name:KIDS TV
 URL1:http://65.108.62.57:8080/live/kidshd.m3u8
-Channel name:BCI KIDS
-URL1:http://eu1.vectromdigital.com:1936/bcikids/bcikids/playlist.m3u8
 Channel name:ZOYZOYNIA TV
 URL1:http://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
 Channel name:ERT WORLD 
@@ -180,8 +172,6 @@ Channel name:RED MUSIC
 URL1:http://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
 Channel name:NG TV
 URL1:http://live.streams.ovh/NGradio/NGradio/playlist.m3u8
-Channel name:BCI MUSIC
-URL1:http://eu1.vectromdigital.com:1936/bcimusic/bcimusic/playlist.m3u8
 Channel name:MAGIC TV
 URL1:http://itv.streams.ovh/magictv/magictv/playlist.m3u8
 Channel name:RELOAD RADIO
@@ -212,12 +202,6 @@ Channel name:MONTREAL GREEK TV
 URL1:http://live.greektv.ca/hls1/greektv.m3u8
 Channel name:GREEK VOICE 
 URL1:http://65.108.62.57:8080/live/greektv1.m3u8
-Channel name:BCI TRAVEL
-URL1:http://eu1.vectromdigital.com:1936/bcitravel/bcitravel/playlist.m3u8
-Channel name:BCI DOCUMENTARY
-URL1:http://eu1.vectromdigital.com:1936/bcidocumentary/bcidocumentary/playlist.m3u8
-Channel name:BCI FOOD
-URL1:http://eu1.vectromdigital.com:1936/bcifood/bcifood/playlist.m3u8
 Channel name:GRD CHANNEL
 URL1:http://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 Channel name:PEMPTOUSIA TV
@@ -226,8 +210,6 @@ Channel name:EKKLHSIA TV HD
 URL1:http://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 Channel name:TV DIPSO 
 URL1:http://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
-Channel name:BCI NEWS
-URL1:http://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 Channel name:NOTIOI TV
 URL1:http://srv.streamserver.gr:3451/stream/play.m3u8
 Channel name:DESTINATION GREECE TV
@@ -266,8 +248,6 @@ Channel name:PRO NEWS
 URL1:http://127.0.0.1:88/http://www.twitch.tv/pronewstv
 Channel name:TV KOSMOS
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvkosmosgr
-Channel name:CRECA TV
-URL1:http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 Channel name:RISE TV
 URL1:http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
 Channel name:TOP CHANNEL BUP
@@ -304,5 +284,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Dec  2 07:24:23 EET 2023
+Channel name:Mon Dec  4 07:26:01 EET 2023
 URL1:http//www.dummmytest1.org.gr
