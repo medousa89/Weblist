@@ -69,7 +69,7 @@ URL1:http://push-int.siliconweb.com/one/stream/playlist.m3u8
 Channel name:KONTRA
 URL1:http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 Channel name:ART
-URL1:http://rumble.com/live-hls/3nj55b/playlist.m3u8?
+URL1:http://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-130/j82z-iha6_1080p/chunklist.m3u8
 Channel name:ATTICA TV
 URL1:http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 Channel name:HIGH TV
@@ -294,5 +294,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Wed Jan 10 07:26:10 EET 2024
+Channel name:Sat Jan 13 07:25:48 EET 2024
 URL1:http//www.dummmytest1.org.gr
