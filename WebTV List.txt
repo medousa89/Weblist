@@ -107,13 +107,13 @@ URL1:http://live.neatv.gr:8888/hls/neatv.m3u8
 Channel name:CRETA
 URL1:http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 Channel name:BEST TV
-URL1:http://stream.net7.gr/hls/best/index.m3u8
+URL1:http://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
 Channel name:START TV
 URL1:http://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 Channel name:TRT TV
 URL1:http://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 Channel name:ENA CHANNEL
-URL1:http://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8
+URL1:http://til.pp.ua:3365/live/enachannellive.m3u8
 Channel name:THRAKINET
 URL1:http://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 Channel name:DELTA TV
@@ -247,7 +247,7 @@ URL1:http://127.0.0.1:88/http://www.twitch.tv/astratv2021
 Channel name:CENTER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/centertv
 Channel name:THESSALIA TV
-URL1:http://127.0.0.1:88/http://www.twitch.tv/thessaliatv
+URL1:http://127.0.0.1:88/http://www.twitch.tv/livethess
 Channel name:XTV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/xtvision
 Channel name:PRO NEWS 
@@ -270,9 +270,9 @@ Channel name:IONIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvioniathessalonikis
 Channel name:DTP
 URL1:http://127.0.0.1:88/http://www.twitch.tv/dtpylias
-Channel name:CΙΝΕΜΑ ΤIME BUP
+Channel name:CINEMA TIME 
 URL1:http://127.0.0.1:88/http://www.twitch.tv/cinematimetv
-Channel name:CΙΝΕΜΑ ΤIME 2
+Channel name:CINEMA TIME 2
 URL1:http://127.0.0.1:88/http://www.twitch.tv/cinematimetv2
 Channel name:KOS TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/kardamena_team
@@ -292,7 +292,7 @@ Channel name:ERT MUSIC
 URL1:http://streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S11906356/OllOZuw9jfgd/playlist.m3u8
 Channel name:ERT KIDS
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/ert_sports4_main/main_1080/chunks.m3u8
-Channel name: RTP KENTRO
+Channel name:RTP KENTRO
 URL1:http://ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
@@ -310,5 +310,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Mon Jan 15 07:27:00 EET 2024
+Channel name:Wed Jan 17 07:26:14 EET 2024
 URL1:http//www.dummmytest1.org.gr
