@@ -6,8 +6,6 @@ Channel name:ERT3 HD
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
 Channel name:ERT NEWS
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
-Channel name:ERT SPORTS 
-URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
 Channel name:MEGA HD
 URL1:http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 Channel name:ANT1 HD
@@ -76,6 +74,8 @@ Channel name:CITY CHANNEL
 URL1:http://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 Channel name:VOULI TV CY
 URL1:http://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+Channel name:CYPRUS TV
+URL1:http://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 Channel name:NAFTEMPORIKH TV
 URL1:http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 Channel name:ACTION 24
@@ -200,6 +200,8 @@ Channel name:REAL MUSIC TV
 URL1:http://new.cache-stream.workers.dev/stream/UCBhtFANy1sg49QYlGmDeHYA/live.m3u8
 Channel name:GREEK TV LONDON
 URL1:http://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+Channel name:ERT SPORTS 1
+URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
 Channel name:ERT SPORTS 2
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8
 Channel name:IME WEB TV
@@ -244,6 +246,8 @@ Channel name:FLASH TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/flashtvgr
 Channel name:ASTRA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/astratv2021
+Channel name:EURO CHANNEL
+URL1:http://127.0.0.1:88/http://www.twitch.tv/eurochannel
 Channel name:CENTER TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/centertv
 Channel name:THESSALIA TV
@@ -260,12 +264,8 @@ Channel name:TOP CHANNEL BUP
 URL1:http://127.0.0.1:88/http://www.twitch.tv/topchannelkozani
 Channel name:RODOPI TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvrodopi
-Channel name:OPEN SPORT
-URL1:http://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8
-Channel name:OPEN SPORT 1
+Channel name:OPEN SPORT 
 URL1:http://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
-Channel name:OPEN SPORT 2
-URL1:http://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/opentvlive/openlatin2/playlist.m3u8
 Channel name:IONIA TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/tvioniathessalonikis
 Channel name:DTP
@@ -296,8 +296,8 @@ Channel name:RTP KENTRO
 URL1:http://ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8
 Channel name:STAR K.E.
 URL1:http://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
-Channel name:STAR K.E. BUP
-URL1:http://www.dailymotion.com/embed/video/k5Hfx6eeaTjBE5zRXcn#tab_embed.m3u8
+Channel name:EUROVISION CHANNEL
+URL1:http://streamcdnh6-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S14056690/bFJBI4yhRh7E/playlist.m3u8
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -314,5 +314,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Jan 27 07:22:53 EET 2024
+Channel name:Mon Jan 29 07:25:00 EET 2024
 URL1:http//www.dummmytest1.org.gr
