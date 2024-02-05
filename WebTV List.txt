@@ -1,9 +1,9 @@
 Channel name:ERT1 HD
-URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_1080/chunks.m3u8
+URL1:http://telmacosa.s.llnwi.net/osY/ERT/default/playlist.m3u8
 Channel name:ERT2 HD
-URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_1080/chunks.m3u8
+URL1:http://telmacosa.s.llnwi.net/osY/ERT2/default/playlist.m3u8
 Channel name:ERT3 HD
-URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
+URL1:http://telmacosa.s.llnwi.net/osY/ERT3/default/playlist.m3u8
 Channel name:ERT NEWS
 URL1:http://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 Channel name:MEGA HD
@@ -60,8 +60,6 @@ Channel name:SIGMA
 URL1:http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
 Channel name:OMEGA 
 URL1:http://l1.cloudskep.com/tst/omcy/playlist.m3u8
-Channel name:ALPHA CY
-URL1:http://l4.cloudskep.com/alphatmp/acy/playlist.m3u8
 Channel name:VERGINA TV CY
 URL1:http://127.0.0.1:88/http://www.twitch.tv/verginacy
 Channel name:FAROS TV CY
@@ -72,8 +70,6 @@ Channel name:ALFA SPORT CY
 URL1:http://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 Channel name:CITY CHANNEL
 URL1:http://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
-Channel name:VOULI TV CY
-URL1:http://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 Channel name:CYPRUS TV
 URL1:http://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 Channel name:NAFTEMPORIKH TV
@@ -314,5 +310,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Feb  3 07:23:21 EET 2024
+Channel name:Mon Feb  5 07:25:30 EET 2024
 URL1:http//www.dummmytest1.org.gr
