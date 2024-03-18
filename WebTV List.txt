@@ -54,8 +54,6 @@ Channel name:ANT1 CY
 URL1:http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 Channel name:SIGMA
 URL1:http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
-Channel name:OMEGA 
-URL1:http://l1.cloudskep.com/tst/omcy/playlist.m3u8
 Channel name:VERGINA TV CY
 URL1:http://127.0.0.1:88/http://www.twitch.tv/verginacy
 Channel name:FAROS TV CY
@@ -66,8 +64,6 @@ Channel name:ALFA SPORT CY
 URL1:http://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 Channel name:CITY CHANNEL
 URL1:http://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
-Channel name:CYPRUS TV
-URL1:http://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 Channel name:NAFTEMPORIKH TV
 URL1:http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 Channel name:ACTION 24
@@ -128,8 +124,6 @@ Channel name:DIKTYO TV
 URL1:http://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 Channel name:TILE EPILOGES
 URL1:http://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-Channel name:PELLA TV
-URL1:http://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 Channel name:AEOLOS TV
 URL1:http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 Channel name:IRIDA TV
@@ -177,7 +171,7 @@ URL1:http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 Channel name:ZOUGLA TV
 URL1:http://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 Channel name:TILEMOUSIKI
-URL1:http://65.108.62.57:8080/live/greekmusic.m3u8
+URL1:http://ssh101.bozztv.com/ssh101/tilemousiki/playlist.m3u8
 Channel name:PLAY TV
 URL1:http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 Channel name:XALASTRA TV
@@ -189,7 +183,7 @@ URL1:http://vod.streams.ovh:3528/stream/play.m3u8
 Channel name:MGR TV
 URL1:http://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 Channel name:REAL MUSIC TV
-URL1:http://new.cache-stream.workers.dev/stream/UCBhtFANy1sg49QYlGmDeHYA/live.m3u8
+URL1:http://webtv.topwebhost.gr:3302/stream/play.m3u8
 Channel name:GREEK TV LONDON
 URL1:http://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 Channel name:ERT SPORTS 
@@ -275,15 +269,17 @@ URL1:http://pro.free.hr:3464/live/l69plive.m3u8
 Channel name:MAX TV
 URL1:http://neon.streams.gr:8081/argolidatv/index.m3u8
 Channel name:ERT MUSIC
-URL1:http://telmacosa.mmdlive.lldns.net/telmacosa/81946d64fecc47b8a8cc3688aa770b1c/manifest.m3u8
+URL1:http://telmacosa.s.llnwi.net/ertlive/music/default/playlist.m3u8
 Channel name:ERT KIDS
-URL1:http://telmacosa.mmdlive.lldns.net/telmacosa/c69769cd99264f18b94552d43dea6b1f/manifest.m3u8
+URL1:http://telmacosa.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 Channel name:RTP KENTRO
 URL1:http://ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8
 Channel name:STAR K.E.
 URL1:http://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 Channel name:EUROVISION CHANNEL
-URL1:http://telmacosa.mmdlive.lldns.net/telmacosa/4f99481c100940639f69c0b8ea11e573/manifest.m3u8
+URL1:http://telmacosa.s.llnwi.net/ertlive/eurovision/default/playlist.m3u8
+Channel name:HLEKTRA TV
+URL1:http://ssh101.bozztv.com/ssh101/hlektra/playlist.m3u8
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -300,5 +296,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Sat Mar 16 07:25:34 EET 2024
+Channel name:Mon Mar 18 07:25:32 EET 2024
 URL1:http//www.dummmytest1.org.gr
