@@ -1,9 +1,9 @@
 Channel name:ERT1 HD
-URL1:http://telmacosa.s.llnwi.net/osY/ERT/default/playlist.m3u8
+URL1:http://ertflix.s.llnwi.net/ertlive/ert1/default/index.m3u8
 Channel name:ERT2 HD
-URL1:http://telmacosa.s.llnwi.net/osY/ERT2/default/playlist.m3u8
+URL1:http://ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8
 Channel name:ERT3 HD
-URL1:http://telmacosa.s.llnwi.net/osY/ERT3/default/playlist.m3u8
+URL1:http://ertflix.s.llnwi.net/ertlive/ert3/default/index.m3u8
 Channel name:ERT NEWS
 URL1:http://telmacosa.s.llnwi.net/osO/ERTNews/default/playlist.m3u8
 Channel name:MEGA HD
@@ -39,7 +39,7 @@ URL1:http://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 Channel name:DTV6
 URL1:http://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 Channel name:ERT WORLD 
-URL1:http://telmacosa.s.llnwi.net/osO/ERTWorld/default/playlist.m3u8
+URL1:http://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
 Channel name:EURONEWS 
 URL1:http://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
 Channel name:VOULI
@@ -195,7 +195,7 @@ URL1:http://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 Channel name:REAL MUSIC TV
 URL1:http://webtv.topwebhost.gr:3302/stream/play.m3u8
 Channel name:ERT SPORTS 
-URL1:http://telmacosa.s.llnwi.net/ertlive/ertsports1/default/playlist.m3u8
+URL1:http://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
 Channel name:ERT SPORTS 2
 URL1:http://cdn1.smart-tv-data.com/vid/ertplay2/playlist.m3u8
 Channel name:IME WEB TV
@@ -215,7 +215,7 @@ URL1:http://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 Channel name:NOTIOI TV
 URL1:http://srv.streamserver.gr:3451/stream/play.m3u8
 Channel name:DESTINATION GREECE TV
-URL1:http://2-fss-1.streamhoster.com/pl_148/203374-1960324-1/playlist.m3u8
+URL1:http://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
 Channel name:STENT TV
 URL1:http://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 Channel name:ELLINIKOS FM
@@ -276,16 +276,14 @@ Channel name:VILLAGE WORLD
 URL1:http://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
 Channel name:LEVEL
 URL1:http://pro.free.hr:3464/live/l69plive.m3u8
-Channel name:MAX TV
-URL1:http://neon.streams.gr:8081/argolidatv/index.m3u8
 Channel name:ERT MUSIC
-URL1:http://telmacosa.s.llnwi.net/ertlive/music/default/playlist.m3u8
+URL1:http://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
 Channel name:ERT KIDS
-URL1:http://telmacosa.s.llnwi.net/ertlive/kids/default/playlist.m3u8
+hhttp://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
 Channel name:STAR K.E.
 URL1:http://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 Channel name:EUROVISION CHANNEL
-URL1:http://telmacosa.s.llnwi.net/ertlive/eurovision/default/playlist.m3u8
+URL1:http://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8
 Channel name:EVRIPOS TV
 URL1:http://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 Channel name:ON TV
@@ -308,5 +306,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Wed Apr 10 08:24:49 EEST 2024
+Channel name:Sat Apr 13 08:24:52 EEST 2024
 URL1:http//www.dummmytest1.org.gr
