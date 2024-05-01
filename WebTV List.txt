@@ -25,13 +25,13 @@ URL1:http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 Channel name:GROOVY
 URL1:http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 Channel name:GALAXY GR
-URL1:http://rpn3.bozztv.com/ssh101/ssh101/galaxygr/playlist.m3u8
+URL1:http://ssh101-fl.bozztv.com/ssh101/galaxygr/index.m3u8
 Channel name:NETV TORONTO HD
 URL1:http://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 Channel name:NETV EUROPE HD
 URL1:http://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 Channel name:DIAVATA TV HD
-URL1:http://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+URL1:http://127.0.0.1:88/http://www.twitch.tv/diabatatv
 Channel name:CINEMA TIME
 URL1:http://s1.cystream.net/live/34100/playlist.m3u8
 Channel name:CINEMA CLASSICS
@@ -44,8 +44,22 @@ Channel name:EURONEWS
 URL1:http://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
 Channel name:VOULI
 URL1:http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+Channel name:RIK 1 CY
+URL1:http://213.7.193.54:4000/play/a00a/index.m3u8
+Channel name:RIK 2 CY
+URL1:http://213.7.193.54:4000/play/a00b/index.m3u8
+Channel name:RIK HD CY
+URL1:http://213.7.193.54:4000/play/a00e/index.m3u8
 Channel name:RIK SAT CY
 URL1:http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+Channel name:OMEGA
+URL1:http://213.7.193.54:4000/play/a003/index.m3u8
+Channel name:CAPITAL
+URL1:http://213.7.193.54:4000/play/a009/index.m3u8
+Channel name:ONE TV CY
+URL1:http://213.7.193.54:4000/play/a008/index.m3u8
+Channel name:PLUS
+URL1:http://213.7.193.54:4000/play/a007/index.m3u8
 Channel name:ANT1 CY
 URL1:http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 Channel name:SIGMA
@@ -62,6 +76,8 @@ Channel name:CITY CHANNEL
 URL1:http://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 Channel name:VOULI TV CY
 URL1:http://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+Channel name:CYPRUS TV
+URL1:http://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 Channel name:NAFTEMPORIKH TV
 URL1:http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 Channel name:ACTION 24
@@ -197,7 +213,9 @@ URL1:http://webtv.topwebhost.gr:3302/stream/play.m3u8
 Channel name:ERT SPORTS 
 URL1:http://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
 Channel name:ERT SPORTS 2
-URL1:http://cdn1.smart-tv-data.com/vid/ertplay2/playlist.m3u8
+URL1:http://ertflix.s.llnwi.net/ertlive/ertsports2/default/index.m3u8
+Channel name:ERT SPORTS 3
+URL1:http://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
 Channel name:IME WEB TV
 URL1:http://theagenis.fhw.gr:8080/maintv.mp4
 Channel name:MONTREAL GREEK TV
@@ -279,7 +297,7 @@ URL1:http://pro.free.hr:3464/live/l69plive.m3u8
 Channel name:ERT MUSIC
 URL1:http://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
 Channel name:ERT KIDS
-hhttp://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
+URL1:http://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
 Channel name:STAR K.E.
 URL1:http://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 Channel name:EUROVISION CHANNEL
@@ -290,6 +308,32 @@ Channel name:ON TV
 URL1:http://127.0.0.1:88/http://www.twitch.tv/ontv2023
 Channel name:APOKALIPTIKA NEWS
 URL1:http://ythls.armelin.one/channel/UC87VDJvN0E-79sxrOUigEwg.m3u8
+Channel name:ERT1 HD BUP
+URL1:http://88.99.254.101/ert1HD/index.m3u8
+Channel name:ERT2 HD BUP
+URL1:http://88.99.254.101/ert2HD/index.m3u8
+Channel name:ERT3 HD BUP
+URL1:http://88.99.254.101/ert3HD/index.m3u8
+Channel name:MEGA HD BUP
+URL1:http://88.99.254.101/megaHD/index.m3u8
+Channel name:ANT1 HD BUP
+URL1:http://88.99.254.101/ant1HD/index.m3u8
+Channel name:ALPHA HD BUP
+URL1:http://88.99.254.101/alphaHD/index.m3u8
+Channel name:STAR HD BUP
+URL1:http://88.99.254.101/starHD/index.m3u8
+Channel name:SKAI HD  BUP
+URL1:http://88.99.254.101/skaiHD/index.m3u8
+Channel name:OPEN TV HD BUP
+URL1:http://88.99.254.101/etvHD/index.m3u8
+Channel name:EXTACY TV
+URL1:http://127.0.0.1:88/http://www.twitch.tv/extacy_tv
+Channel name:MONTAZ TV
+URL1:http://127.0.0.1:88/http://www.twitch.tv/tvmontazthessaloniki
+Channel name:IVIEW TV
+URL1:http://127.0.0.1:88/http://www.twitch.tv/iviewtvgr
+Channel name:MR.BEAN
+URL1:http://127.0.0.1:88/http://www.twitch.tv/misterbean24
 Channel name:Ert Sports
 URL1:http://195.226.218.10/vid/ertsports/mpeg.2ts
 Channel name:Ert Sports2
@@ -306,5 +350,5 @@ Channel name:Ert world
 URL1:http://195.226.218.160/vid/ertworld/mpeg.2ts
 Channel name:ErtNews2
 URL1:http://195.226.218.163/vid/ertnews2/mpeg.2ts
-Channel name:Mon Apr 29 08:28:00 EEST 2024
+Channel name:Wed May  1 08:25:08 EEST 2024
 URL1:http//www.dummmytest1.org.gr
